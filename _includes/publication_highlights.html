@@ -6,14 +6,14 @@
 {% if publi.highlight == 1 %}
 
 {% if even_odd == 0 %}
-
+<div class="row"> 
 {% endif %}
 
-<div class="row"> 
+
 <div class="col-sm-6 clearfix">
  <div class="well" style="overflow: hidden; padding-bottom:7px;">
   <pubtit>{{ publi.title }}</pubtit>
-  {% if page.url == "/funk" %}<p style="margin: 5px 0px 0px 0px;">{% endif; %}<a style="padding: 0px 0px 0px 0px; text-decoration: none;" target="_blank" href="../media/{{ publi.link.url }}"><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left; {% if page.url == "/funk" %}padding: 7px 10px 0px 0px;{% endif; %}" />{% if page.url == "/funk" %}</p>{% endif; %}</a>
+  {% if page.url == "/funk" %}<p style="margin: 5px 0px 0px 0px;">{% endif; %}<a style="padding: 0px 0px 0px 0px; text-decoration: none;" target="_blank" href="../media/{{ publi.link.url }}"><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="90%" style="float: left; {% if page.url == "/funk" %}padding: 7px 10px 0px 0px;{% endif; %}" />{% if page.url == "/funk" %}</p>{% endif; %}</a>
   <p>{{ publi.description }}</p>
   <p><a style="background: url({{ site.url }}{{ site.baseurl }}/images/icons/pdf_icon.png) no-repeat left center; text-decoration: none; padding-left: 20px;" target="_blank" href="../media/{{ publi.link.url }}">[PDF]</a>&nbsp;{{ publi.authors }} {{ publi.link.display }}</p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
@@ -34,4 +34,3 @@
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-</div>
