@@ -5,7 +5,6 @@ excerpt: "Roychoudhuri Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
-<div id="research_contentid" >
 <h3 style="margin-top:18px">Immune regulation and cancer immunosuppression</h3> 
 **T cells** drive immune activation and promote clearance of infections and cancer. However, their function can provoke autoimmune and allergic inflammation. The immune system therefore employs a variety of suppressive mechanisms, known as **immunoregulatory mechanisms**, to restrain excessive T cell activation and prevent autoimmune and allergic inflammation. It is now known that such suppressive mechanisms inhibit anti-tumour immunity to drive deleterious **immunosuppression** in cancer. Immunoregulatory mechanisms therefore function as ‘brakes’ within the immune system and are important therapeutic targets in **infection, inflammation and cancer**. This is exemplified by the clinical efficacy of cancer immunotherapies targeting the immune ‘checkpoints’ PD-1 and CTLA-4 in certain cancers. 
 
@@ -21,7 +20,6 @@ Our research falls within three key areas described below.
 <figcaption><b>Figure 1. Regulatory T cell development.</b> CD4+ effector and regulatory T (Treg) cells arise from common precursor cells within the thymus and periphery by exert opposing functions. Treg-mediated restraint of 
 effector cell function is a critical immunoregulatory mechanism required to prevent lethal inflammation.  Modified from Igarashi, Kurosaki and Roychoudhuri, Nat Rev Immunol 2017.
 </figcaption></figure>
-</div>
 
 The immunoregulatory function of Treg cells is a major focus of the laboratory's research. We have demonstrated the non-redundant requirement for the transcription factor BACH2 in Treg development (Nature 2013). Our findings provided a model of early Treg lineage commitment and explained why genetic polymorphisms at the human BACH2 locus are associated with autoimmune and allergic diseases. We established a now widely-accepted molecular model of how BACH2 functions in lymphocytes (Nat Immunol 2016; reviewed in Igarashi, Kurosaki and Roychoudhuri, Nat Rev Immunol 2017). Our research contributed to the discovery of a new human disease called BACH2-related Immunodeficiency and Autoimmunity (Afzali et al., Nat Immunol 2017). This has led to identification and improved management of patients with BRIDA. We showed that BACH2 promotes Treg-mediated cancer immunosuppression (J Clin Invest 2015). We have subsequently developed cell-based reporter assays for BACH2 function (Scientific Reports 2020), enabling a drug discovery programme in collaboration with Cancer Research UK Therapeutic Discovery Laboratories.
 
