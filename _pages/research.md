@@ -11,7 +11,6 @@ permalink: /research/
 
 We believe that fundamental discovery in the fields of immune regulation and cancer immunosuppression will enable development of new and more effective therapies for patients with presently incurable autoimmune and allergic diseases and cancer. Our research falls within three key areas described below.
 
-<br />
 ### Regulatory T (Treg) cell development and function
 
 **Regulatory T (Treg) cells** are rare immune cells with powerful suppressive functions. Loss of CD4+ Foxp3+ Treg cells results in lethal inflammation, while defects in their function are associated with autoimmunity and allergy. Treg cells also suppress immune responses in cancer. There is intense medical interest in exploiting the powerful biological functions of Treg cells to treat patients with inflammatory diseases, transplantation and cancer. However, most efforts have thusfar been disappointing. We aim to better define mechanisms of Treg development and function, to identify new ways of exploiting or blocking the suppressive function of Treg cells in individuals with inflammation and cancer (**Fig. 1**).  
@@ -25,7 +24,6 @@ The immunoregulatory function of Treg cells is a major focus of the laboratory's
 
 Our group showed that a distal enhancer at the prominent human autoimmune/allergic disease risk locus at chromosome 11q13.5 restricts gut inflammation by promoting expression of the TGF-b docking receptor GARP on Treg cells, revealing a novel mechanism of immune regulation in the gut (Nature 2020).  We showed that quiescent cells marked by high levels of BACH2 expression are required for maintenance of Treg responses over time (Grant et al., J Exp Med 2020). We showed that CCR8 expression marks Treg cells with highly suppressive function in tumours but that it is dispensable for their accumulation and suppressive function (Immunology 2021). 
 
-<br />
 #### Suppression of T cell immunity in cancer
 
 Cancers adapt to their immune environment to evade attack. According to the **cancer immunoediting** hypothesis, tumour development is characterized by an initial ‘elimination’ phase, during which a majority of cancer cells are destroyed by components of innate and adaptive immunity (**Fig. 3**). This is followed by an ‘equilibrium’ phase, during which pressure from the immune system contributes to evolutionary selection of tumour escape variants that give rise to an ‘escape’ phase characterized by evasion from immune control and unrestrained tumour growth.  
@@ -37,9 +35,7 @@ Cancers adapt to their immune environment to evade attack. According to the **ca
 While selection of antigen-loss variants represents a mechanism of tumour escape, growth of tumours containing immunogenic epitopes is better explained through an understanding of the critical role of immunosuppression in promoting tumour escape. To achieve this, cancer cells subvert the biochemical, metabolic and ionic environment of tumours to drive immune dysfunction. Using **directed tumour evolution** and **high-throughput CRISPR-based functional genetics**, this work aims to identify novel immunoregulatory mechanisms operating within the tumour microenvironment. 
 
 We have made progress in understanding mechanisms of tumour immunosuppression. We uncovered mechanisms by which Treg cells contribute to cancer immunosuppression (J Clin Invest 2016). Our group showed that maintenance of durable immunosuppressive Treg responses to cancer require the Treg cells with a quiescent phenotype (J Exp Med 2020). We showed that high interstitial potassium concentrations within tumours limits CD8+ T cell function through suppression of the AKT/mTOR pathway (Nature 2016). We have shown that Treg differentiation is sensitive to local oxygen concentration contributing to lung immune homeostasis but creating a permissive environment for pulmonary cancer metastasis (Cell 2016). We showed that CCR8 marks Treg cells with highly suppressive function within tumours, but is dispensable for their accumulation and function (Immunology 2021). Our research findings and tools form the basis for industrial collaborations with GSK, F-Star Biotechnology and CRUK Therapeutic Discovery Laboratories.
-</div>
 
-<br />
 #### T cell maintenance and dysfunction 
 T cell responses are clonally expanded from small numbers of antigen-specific naive precursor cells which arose during thymic development. Upon priming, antigen-specific T cell responses must be maintained over long periods of time to enable T cell memory and durable responses to chronic antigens. Our laboratory is interested in the mechanisms that underpin long-lived T cell responses.
 
@@ -58,4 +54,4 @@ We have a long-standing interest in T cell memory. We conducted one of the earli
 <div id="gridid">
 {% include publication_highlights.html %}
 </div>
-
+</div>
