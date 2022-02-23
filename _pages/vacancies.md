@@ -6,7 +6,7 @@ sitemap: false
 permalink: /vacancies
 ---
 
-### Open positions
+<h3 style="margin-top:18px">Joining the lab</h3> 
 
 We are always looking for new group members with passion, talent, and grit!
 

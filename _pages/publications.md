@@ -6,9 +6,7 @@ sitemap: false
 pubmed_searchterm: Roychoudhuri R [author]
 permalink: /publications/
 ---
-<br />
-<br />
-### Publications
+<h3 style="margin-top:18px">Publications</h3> 
 <div>
 {% include pubmed_gen_reflist.html pubmed_searchterm = page.pubmed_searchterm %}
 </div>
