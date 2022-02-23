@@ -6,6 +6,7 @@ sitemap: false
 permalink: /photos/
 ---
 <br />
+<br />
 ### Lab photos
 
 #### In the lab

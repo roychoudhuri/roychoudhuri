@@ -5,7 +5,8 @@ excerpt: "Roychoudhuri Lab at the University of Cambridge."
 sitemap: false
 permalink: /
 ---
-
+<br />
+<br />
 <h3 style="margin-top:0px">T cell immunity in inflammation and cancer</h3> 
 **T cells** drive immune activation and promote clearance of infections and cancer. However, their function can provoke autoimmune and allergic inflammation. The immune system therefore employs a variety of suppressive mechanisms, known as **immunoregulatory mechanisms**, to restrain excessive T cell activation and prevent autoimmune and allergic inflammation. It is now known that such suppressive mechanisms inhibit anti-tumour immunity to drive deleterious **immunosuppression** in cancer. Immunoregulatory mechanisms therefore function as ‘brakes’ within the immune system and have important consequences in **infection, inflammation and cancer**. 
 
