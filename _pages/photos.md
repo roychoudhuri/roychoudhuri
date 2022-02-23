@@ -5,7 +5,7 @@ excerpt: "Roychoudhuri Lab: Team members"
 sitemap: false
 permalink: /photos/
 ---
-<h3 style="margin-top:18px">Lab Photos</h3> 
+<h3 style="margin-top:0px">Lab Photos</h3> 
 
 #### In the lab
 

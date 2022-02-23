@@ -5,7 +5,7 @@ excerpt: "Roychoudhuri Lab: Group members"
 sitemap: false
 permalink: /team/
 ---
-<h3 style="margin-top:18px">Group Members</h3> 
+<h3 style="margin-top:0px">Group Members</h3> 
 
 
  **We are looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
