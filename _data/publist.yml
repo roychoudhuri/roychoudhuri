@@ -32,7 +32,7 @@
 
 - title: "A human monogenic inflammatory disease caused by loss-of-function mutations in BACH2"
   image: afzali_NI_2017_b.png
-  description: This study describes a new human monogenic disease resulting from inactivating mutations of BACH2, termed BACH2-related Immunodeficiency and Autoimmunity (BRIDA), resulted from an international collaboration with clinicians and academic researchers in the UK and US.
+  description: This study describes a human monogenic disease resulting from inactivating mutations of BACH2, termed BACH2-related Immunodeficiency and Autoimmunity (BRIDA). Affected patients have lymphocyte-differentiation defects associated with immunodeficiency and inflammation of the intestinal tract and lungs. This work was informed by our earlier fundamental studies and resulted from an international collaboration with clinical and academic researchers in the US and UK. 
   authors:
   link:
     url: Afzali NI 2017.pdf
@@ -52,8 +52,8 @@
 
 - title: "High levels of extracellular potassium in tumours suppress T cell activation"
   image: eil_nature_2016_b.png
-  description: This study revealed that cell death in the tumour microenvironment releases intracellular potassium into the extracellular space, causing profound suppression of T cell activation. Engineering CD8+ T cells to be resistant to high extracellular potassium levels in tumours improves adoptive immunotherapy.
-  authors:
+  description: This study revealed that cell death in the tumour microenvironment releases intracellular potassium into the extracellular microenvironment of tumours, causing profound suppression of T cell activation. High extracellular potassium concentrations impair T cell receptor (TCR)-driven Akt-mTOR phosphorylation and effector programmes. Engineering CD8+ T cells to be resistant to high extracellular potassium in tumours improves adoptive immunotherapy.
+  authors: Eil R et al.
   link:
     url: Eil Nature 2016.pdf
     display: <b><i>Nature</i> (2016)</b> 537:539-543.
@@ -62,8 +62,8 @@
 
 - title: "Oxygen-sensing by T cells promotes cancer metastasis to the lung"
   image: clever_cell_2016_a.png
-  description: The lung is a frequent site of cancer metastasis. Here, we show that the HIF prolyl hydroxylases PHD1, PHD2 and PHD3 mediate sensitivity of T cells to local oxygen concentrations, affecting Th1 and Treg differentiation and driving immune permissivity of the lung to cancer metastasis.
-  authors:
+  description: The lung is a frequent site of cancer metastasis. Here, we show that T cell responses to metastasis within the lung are restricted by high oxygen concentrations. The HIF prolyl hydroxylases PHD1, PHD2 and PHD3 mediate sensitivity of T cells to oxygen, which suppresses Th1 responses and promotes iTreg responses within the lung. As a consequence, immunologic permissivity of the lung to cancer metastasis is dependent upon PHD1, PHD2 and PHD3.
+  authors: Clever D et al.
   link:
     url: Clever Cell 2016.pdf
     display: <b><i>Cell</i> (2016)</b> 166:1117-1131
@@ -73,7 +73,7 @@
 - title: "BACH2 functions as an AP-1 repressor in lymphocytes to promote CD8+ T cell memory"
   image: roychoudhuri_ni_2016_a.png
   description: This study was the first to define BACH2 key regulator of lymphocyte quiescence and maintenance. We showed that BACH2 restrains effector differentiation and promote generation of long-lived memory CD8+ T cells after viral infection. We found that BACH2 binds to enhancers where it engages in steric competition with AP-1 factors, limiting TCR-driven induction of AP-1 target genes to promote memory formation. 
-  authors:
+  authors: Roychoudhuri et al.
   link:
     url: Roychoudhuri NI 2016.pdf
     display: <b><i>Nat Immunol</i> (2016)</b> 17:851-860. 
@@ -84,7 +84,7 @@
 - title: "The transcription factor BACH2 promotes tumour immunosuppression through its function in Treg cell development"
   image: roychoudhuri_jci_2016_a.png
   description: This study established a role of BACH2 in Treg-mediated tumour immunosuppression. This function is corroborated by results of a large in vivo screen of host restriction factors to tumour metastasis (Van der Weyden et al., Nature 2017) and provides a basis for a CRUK-funded drug development programme with CRUK Therapeutic Discovery Laboratories to identify small molecule inhibitors of the suppressive activity of BACH2.
-  authors: 
+  authors: Roychoudhuri et al.
   link:
     url: Roychoudhuri JCI 2016.pdf
     display: <b><i>J Clin Invest</i> (2016)</b> 126:599-604.
@@ -94,7 +94,7 @@
 - title: "The transcriptional repressor BACH2 is required for Treg cell development and suppression of lethal inflammation"
   image: Roychoudhuri_nature_2013_a.png
   description: This study established the critical function of the transcription factor BACH2 in immunological tolerance. We found that BACH2 is required for early Treg cell development and its deletion in mice results in lethal inflammation. The findings contributed to our understanding of why genetic polymorphisms within the BACH2 locus in humans are associated with susceptibility to autoimmune and allergic diseases (reviewed in Igarashi, Kurosaki and Roychoudhuri, Nat Rev Immunol 2017).
-  authors: 
+  authors: Roychoudhuri et al.
   link:
     url: Roychoudhuri Nature 2013.pdf
     display: <b><i>Nature</i> (2013)</b> 498:506-10.
