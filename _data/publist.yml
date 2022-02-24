@@ -17,7 +17,7 @@
     url: nasrallah_imianowski_nature_2020.pdf
     display: <b><i>Nature</i> (2020)</b>
   highlight: 1
-  news2: Recommended by F1000; Commentary: <i>Sci Immunol</i> 5,eabe0976
+  news2: Recommended by F1000; Commentary in <i>Sci Immunol</i> 5,eabe0976
 
 - title: "BACH2 drives quiescence and maintenance of resting Treg cells to promote homeostasis and cancer immunosuppression"
   image: Grant_Yang_Bach2_JEM.png
@@ -72,7 +72,7 @@
 
 - title: "BACH2 functions as an AP-1 repressor in lymphocytes to promote CD8+ T cell memory"
   image: roychoudhuri_ni_2016_a.png
-  description: This study was the first to define BACH2 key regulator of lymphocyte quiescence. We showed that BACH2 restrains effector differentiation to promote differentiation of long-lived memory CD8+ T cells after viral infection. We found that BACH2 binds to enhancers where it engages in steric competition with AP-1 factors, limiting TCR-driven induction of AP-1 target genes to promote memory formation. Subsequent work has shown that BACH2 is expressed in stem-like progenitors within T cell responses to cancer.
+  description: This study was the first to define BACH2 key regulator of lymphocyte quiescence. We found that BACH2 restrains effector differentiation to promote differentiation of long-lived memory CD8+ T cells after viral infection. We found that BACH2 binds to enhancers where it engages in steric competition with AP-1 factors, limiting TCR-driven induction of AP-1 target genes to promote memory formation. Subsequent work has shown that BACH2 is expressed in stem-like progenitors within T cell responses to cancer.
   authors: Roychoudhuri et al.
   link:
     url: Roychoudhuri NI 2016.pdf
