@@ -1,7 +1,7 @@
 
 - title: "CCR8 marks highly suppressive Treg cells within tumours but is dispensable for their accumulation and suppressive function"
   image: Whiteside_immunology_ccr8_2021.png
-  description: Treg cells within tumours contribute powerfully to cancer immunosupression and express high levels of CCR8. The findings suggest that depletion of CCR8-expressing Treg cells, rather than blocking CCR8 function, will enable therapeutic disruption of tumour-associated Treg cells. 
+  description: There is interest in developing therapies that selectively target the suppressive functions of Treg cells within tumours. We show that high levels of CCR8 expression distinguish highly suppressive Treg cells within tumours, but that genetic deletion of CCR8 has minimal impact on Treg suppressive function or tumor growth. These findings suggest that CCR8 is not required for Treg suppression within tumours and that depletion of CCR8+ Treg cells rather than blockade of CCR8 function is a promising approach for selective immunotherapy.
   authors: Whiteside S, et al.
   link:
     url: 33838058.pdf
@@ -9,19 +9,9 @@
   highlight: 1
   news2:
   
-- title: "A cell-based bioluminescence assay reveals dose-dependent and contextual repression of AP-1-driven gene expression by BACH2"
-  image: Vardaka_Scirep_2020.png
-  description: Dose-dependent repression of AP-1 driven gene expression by BACH2. Activation of IFNG expression by the +18k enhancer is modelled by a cell-based bioluminescence assay permitting high-throughput drug screening for agonists and antagonists of BACH2 function. 
-  authors: Vardaka P, et al.
-  link:
-    url: 33144667.pdf
-    display: <b><i>Sci Rep</i> (2020)</b>
-  highlight: 1
-  news2:
-  
 - title: "A distal enhancer at risk locus 11q13.5 promotes suppression of colitis by Treg cells"
   image: Nasrallah_Imianowski_Lrrc32_Nature.png
-  description: Genetic variations underlying susceptibility to complex autoimmune and allergic diseases are concentrated within the non-coding genome at regulatory elements termed enhancers. The functions of a vast majority of disease-associated enhancers are unresolved. Polymorphisms at the prominent human autoimmune/allergic risk locus 11q13.5 are associated with inflammatory disease. Using CRISPR-based mutagenesis of human disease-associated distal enhancer homologs in mice, we show that a distal enhancer at 11q13.5 promotes Treg-mediated suppression of colitis by driving expression of the TGF-β docking receptor GARP on Treg cells. This resolves a long-standing question about how non-coding genetic polymorphisms at the prominent human autoimmune/allergic risk locus 11q13.5 are associated with inflammatory disease.
+  description: Genetic variations underlying risk of complex immune-mediated diseases are concentrated within the non-coding genome at enhancers. The functions of a vast majority of enhancers are unresolved. Using CRISPR-based mutagenesis of human disease-associated enhancer homologs in mice, we show that a distal enhancer at the human 11q13.5 immune disease risk locus promotes Treg-mediated suppression of colitis by driving expression of the TGF-β docking receptor GARP on Treg cells.
   authors: Nasrallah R, Imianowski C, et al.
   link:
     url: nasrallah_imianowski_nature_2020.pdf
@@ -29,7 +19,7 @@
   highlight: 1
   news2:
 
-- title: "BACH2 promotes the functional quiescence and maintenance of resting Treg cells"
+- title: "BACH2 drives quiescence and maintenance of resting Treg cells to promote homeostasis and cancer immunosuppression"
   image: Grant_Yang_Bach2_JEM.png
   description: This study establishes a critical function of quiescent cells in Treg maintenance. The transcription factor BACH2 is critical for Treg cell development. We show that in mature Treg cells, the function of BACH2 is repurposed. Bach2 is highly expressed in a subset of Treg cells where it binds to enhancers of genes associated with Treg activation and represses their TCR- and AP-1-driven induction. By imposing quiescence in a subset of Treg cells, BACH2 promotes maintenance of Treg responses, and durable immune suppression in cancer. 
   authors: Grant FM, Yang J, et al.
@@ -39,19 +29,10 @@
   highlight: 1
   news2:
   
-- title: "Protocols for integrative genome-wide analysis of transcription factor binding and chromatin accessibility in lymphocytes"
-  image: sadiyah_CPI_2019_a.png
-  description: Experimental and computational protocols to enable integrative analysis of TF binding and chromatin accessibility in lymphocytes. 
-  authors: Sadiyah MF, Roychoudhuri R.
-  link:
-    url: sadiyah2019.pdf
-    display: <b><i>Curr Protoc Immunol</i> (2019)</b> 126:e84. 
-  highlight: 1
-  news2:
 
 - title: "A human monogenic inflammatory disease caused by loss-of-function mutations in BACH2"
   image: afzali_NI_2017_b.png
-  description: The discovery of a human monogenic disease resulting from inactivating mutations of BACH2, termed BACH2-related Immunodeficiency and Autoimmunity (BRIDA). The work, resulted from an international collaboration with clinicians and scientists in the UK and the US.
+  description: This study describes a new human monogenic disease resulting from inactivating mutations of BACH2, termed BACH2-related Immunodeficiency and Autoimmunity (BRIDA), resulted from an international collaboration with clinicians and academic researchers in the UK and US.
   authors:
   link:
     url: Afzali NI 2017.pdf
@@ -61,7 +42,7 @@
  
 - title: "BACH transcription factors in innate and adaptive immunity"
   image: igarashi_nri_2017_b.png
-  description: A review on BACH family transcriptional repressors in innate and adaptive immunity. We highlight similarities at a molecular level in the cell-type-specific activities of the BACH factors, proposing that competitive interactions of BACH proteins with transcriptional activators of the bZIP family form a common mechanistic theme underlying their diverse actions. 
+  description: Here we review roles of BACH family transcriptional repressors in innate and adaptive immunity. We highlight similarities at a molecular level in the cell-type-specific activities of the BACH factors, proposing that competitive interactions of BACH proteins with transcriptional activators of the bZIP family form a common mechanistic theme underlying their diverse actions. 
   authors: Igarashi K, Kurosaki T and Roychoudhuri R
   link:
     url: Igarashi NRI 2017.pdf
@@ -71,7 +52,7 @@
 
 - title: "High levels of extracellular potassium in tumours suppress T cell activation"
   image: eil_nature_2016_b.png
-  description: Cell death within tumours releases intracellular potassium into the extracellular space causing profound suppression of T cell activation and anti-tumour immunity. Engineering CD8+ T cells to be resistant to high extracellular potassium levels in tumours improves adoptive immunotherapy.
+  description: This study revealed that cell death in the tumour microenvironment releases intracellular potassium into the extracellular space, causing profound suppression of T cell activation. Engineering CD8+ T cells to be resistant to high extracellular potassium levels in tumours improves adoptive immunotherapy.
   authors:
   link:
     url: Eil Nature 2016.pdf
@@ -81,7 +62,7 @@
 
 - title: "Oxygen-sensing by T cells promotes cancer metastasis to the lung"
   image: clever_cell_2016_a.png
-  description: The HIF prolyl hydroxylases PHD1, PHD2 and PHD3 mediate sensitivity of T cells to environmental local oxygen concentrations within tissues, promoting Treg cell differentiation and permissivity of the lung to cancer metastasis.
+  description: The lung is a frequent site of cancer metastasis. Here, we show that the HIF prolyl hydroxylases PHD1, PHD2 and PHD3 mediate sensitivity of T cells to local oxygen concentrations, affecting Th1 and Treg differentiation and driving immune permissivity of the lung to cancer metastasis.
   authors:
   link:
     url: Clever Cell 2016.pdf
@@ -91,7 +72,7 @@
 
 - title: "BACH2 functions as an AP-1 repressor in lymphocytes to promote CD8+ T cell memory"
   image: roychoudhuri_ni_2016_a.png
-  description: The transcription factor BACH2 functions as a steric repressor of AP-1 transcription factors in CD8+ T cells, restraining TCR-driven terminal effector differentiation to preserve long-lived memory CD8+ T cell responses 
+  description: This study was the first to define BACH2 key regulator of lymphocyte quiescence and maintenance. We showed that BACH2 restrains effector differentiation and promote generation of long-lived memory CD8+ T cells after viral infection. We found that BACH2 binds to enhancers where it engages in steric competition with AP-1 factors, limiting TCR-driven induction of AP-1 target genes to promote memory formation. 
   authors:
   link:
     url: Roychoudhuri NI 2016.pdf
@@ -102,7 +83,7 @@
 
 - title: "The transcription factor BACH2 promotes tumour immunosuppression through its function in Treg cell development"
   image: roychoudhuri_jci_2016_a.png
-  description: BACH2 promotes tumour immunosuppression through its role in Foxp3+ Treg cell differentiation. These results are consistent with the results of a recent large <a href="https://www.nature.com/articles/nature20792"> in vivo screen of host immunosuppressive factors</a> published by the Adams lab. 
+  description: This study established a role of BACH2 in Treg-mediated tumour immunosuppression. This function is corroborated by results of a large in vivo screen of host restriction factors to tumour metastasis (Van der Weyden et al., Nature 2017) and provides a basis for a CRUK-funded drug development programme with CRUK Therapeutic Discovery Laboratories to identify small molecule inhibitors of the suppressive activity of BACH2.
   authors: 
   link:
     url: Roychoudhuri JCI 2016.pdf
@@ -112,7 +93,7 @@
 
 - title: "The transcriptional repressor BACH2 is required for Treg cell development and suppression of lethal inflammation"
   image: Roychoudhuri_nature_2013_a.png
-  description: The transcription factor BACH2 plays a critical role in Treg cell development, required for immunological tolerance and suppression of lethal inflammation. <br>Commentary by Kallies and Vasanthakumar (<a href="https://onlinelibrary.wiley.com/doi/full/10.1038/icb.2013.32">Immunol Cell Biol. 91:491-2</a>.
+  description: This study established the critical function of the transcription factor BACH2 in immunological tolerance. We found that BACH2 is required for early Treg cell development and its deletion in mice results in lethal inflammation. The findings contributed to our understanding of why genetic polymorphisms within the BACH2 locus in humans are associated with susceptibility to autoimmune and allergic diseases (reviewed in Igarashi, Kurosaki and Roychoudhuri, Nat Rev Immunol 2017).
   authors: 
   link:
     url: Roychoudhuri Nature 2013.pdf
