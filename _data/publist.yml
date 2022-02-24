@@ -21,7 +21,7 @@
   
 - title: "A distal enhancer at risk locus 11q13.5 promotes suppression of colitis by Treg cells"
   image: Nasrallah_Imianowski_Lrrc32_Nature.png
-  description: CRISPR-based mutagenesis of disease-associated distal enhancer homologs in mice reveals a regulatory switch for signal-driven GARP expression by Treg cells. The function of the enhancer is required for Treg cells to control gut inflammation. 
+  description: Genetic variations underlying susceptibility to complex autoimmune and allergic diseases are concentrated within the non-coding genome at regulatory elements termed enhancers. The functions of a vast majority of disease-associated enhancers are unresolved. Polymorphisms at the prominent human autoimmune/allergic risk locus 11q13.5 are associated with inflammatory disease. Using CRISPR-based mutagenesis of human disease-associated distal enhancer homologs in mice, we show that a distal enhancer at 11q13.5 promotes Treg-mediated suppression of colitis by driving expression of the TGF-β docking receptor GARP on Treg cells. This resolves a long-standing question about how non-coding genetic polymorphisms at the prominent human autoimmune/allergic risk locus 11q13.5 are associated with inflammatory disease.
   authors: Nasrallah R, Imianowski C, et al.
   link:
     url: nasrallah_imianowski_nature_2020.pdf
@@ -31,7 +31,7 @@
 
 - title: "BACH2 promotes the functional quiescence and maintenance of resting Treg cells"
   image: Grant_Yang_Bach2_JEM.png
-  description: The transcription factor BACH2 is repurposed following Treg lineage specification and its high expression in resting Treg cells is required for their quiescence and durable maintenance. Durable maintenance of resting Treg cell responses is required for immune homeostasis and cancer immunosuppression.
+  description: This study establishes a critical function of quiescent cells in Treg maintenance. The transcription factor BACH2 is critical for Treg cell development. We show that in mature Treg cells, the function of BACH2 is repurposed. Bach2 is highly expressed in a subset of Treg cells where it binds to enhancers of genes associated with Treg activation and represses their TCR- and AP-1-driven induction. By imposing quiescence in a subset of Treg cells, BACH2 promotes maintenance of Treg responses, and durable immune suppression in cancer. 
   authors: Grant FM, Yang J, et al.
   link:
     url: Grant_Yang_JEM.pdf
