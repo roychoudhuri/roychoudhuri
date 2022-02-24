@@ -1,7 +1,7 @@
 
 - title: "CCR8 marks highly suppressive Treg cells within tumours but is dispensable for their accumulation and suppressive function"
   image: Whiteside_immunology_ccr8_2021.png
-  description: There is interest in developing therapies that selectively target the suppressive functions of Treg cells within tumours. We show that high levels of CCR8 expression distinguish highly suppressive Treg cells within tumours, but that genetic deletion of CCR8 has minimal impact on Treg suppressive function or tumor growth. These findings suggest that CCR8 is not required for Treg suppression within tumours and that depletion of CCR8+ Treg cells rather than blockade of CCR8 function is a promising approach for selective immunotherapy.
+  description: There is intense interest in selectively targeting the suppressive function of Treg cells within tumours. We show that high levels of CCR8 expression distinguish highly suppressive Treg cells within tumours, but that genetic deletion of CCR8 has minimal impact on Treg suppressive function or tumor immunity. These findings suggest that CCR8 is not required for Treg suppression within tumours and that depletion of CCR8+ Treg cells rather than blockade of CCR8 function will enable selective cancer immunotherapy.
   authors: Whiteside S, et al.
   link:
     url: 33838058.pdf
@@ -17,11 +17,11 @@
     url: nasrallah_imianowski_nature_2020.pdf
     display: <b><i>Nature</i> (2020)</b>
   highlight: 1
-  news2:
+  news2: Recommended by F1000; Commentary: <i>Sci Immunol</i> 5:eabe0976
 
 - title: "BACH2 drives quiescence and maintenance of resting Treg cells to promote homeostasis and cancer immunosuppression"
   image: Grant_Yang_Bach2_JEM.png
-  description: This study establishes a critical function of quiescent cells in Treg maintenance. The transcription factor BACH2 is critical for Treg cell development. We show that in mature Treg cells, the function of BACH2 is repurposed. Bach2 is highly expressed in a subset of Treg cells where it binds to enhancers of genes associated with Treg activation and represses their TCR- and AP-1-driven induction. By imposing quiescence in a subset of Treg cells, BACH2 promotes maintenance of Treg responses, and durable immune suppression in cancer. 
+  description: Treg cells are maintained over long periods of time despite a continuous requirement for their suppressive function. This study established a critical function of quiescent cells in Treg maintenance. The transcription factor BACH2 is critical for Treg cell development. We show that in mature Treg cells, Bach2 is highly expressed in quiescent cells where it binds to enhancers of genes associated with Treg activation and represses their TCR- and AP-1-driven induction. By imposing quiescence in this subset of Treg cells, BACH2 promotes maintenance of Treg responses, and durable immune suppression in cancer. 
   authors: Grant FM, Yang J, et al.
   link:
     url: Grant_Yang_JEM.pdf
@@ -32,7 +32,7 @@
 
 - title: "A human monogenic inflammatory disease caused by loss-of-function mutations in BACH2"
   image: afzali_NI_2017_b.png
-  description: This study describes a human monogenic disease resulting from inactivating mutations of BACH2, termed BACH2-related Immunodeficiency and Autoimmunity (BRIDA). Affected patients have lymphocyte-differentiation defects associated with immunodeficiency and inflammation of the intestinal tract and lungs. This work was informed by our earlier fundamental studies and resulted from an international collaboration with clinical and academic researchers in the US and UK. 
+  description: This study describes a human monogenic disease resulting from inactivating mutations of BACH2, termed BACH2-related Immunodeficiency and Autoimmunity (BRIDA). Affected patients have lymphocyte-differentiation defects associated with immunodeficiency and inflammation of the intestinal tract and lungs. This work resulted from an international collaboration with clinical and academic researchers in the US and UK. 
   authors: Afzali et al.
   link:
     url: Afzali NI 2017.pdf
@@ -62,7 +62,7 @@
 
 - title: "Oxygen-sensing by T cells promotes cancer metastasis to the lung"
   image: clever_cell_2016_a.png
-  description: The lung is a frequent site of cancer metastasis. Here, we show that T cell responses to metastasis within the lung are restricted by high oxygen concentrations. The HIF prolyl hydroxylases PHD1, PHD2 and PHD3 mediate sensitivity of T cells to oxygen, which suppresses Th1 responses and promotes iTreg responses within the lung. As a consequence, immunologic permissivity of the lung to cancer metastasis is dependent upon PHD1, PHD2 and PHD3.
+  description: The lung is a frequent site of cancer metastasis but whether there is an immunological component to this susceptibility has been unclear. Here, we show that T cell responses to metastasis within the lung are restricted by high oxygen concentrations. The HIF prolyl hydroxylases PHD1, PHD2 and PHD3 mediate sensitivity of T cells to oxygen, which suppresses Th1 responses and promotes iTreg responses within the lung. As a consequence, immunologic permissivity of the lung to cancer metastasis is dependent upon PHD1, PHD2 and PHD3.
   authors: Clever D et al.
   link:
     url: Clever Cell 2016.pdf
@@ -72,7 +72,7 @@
 
 - title: "BACH2 functions as an AP-1 repressor in lymphocytes to promote CD8+ T cell memory"
   image: roychoudhuri_ni_2016_a.png
-  description: This study was the first to define BACH2 key regulator of lymphocyte quiescence and maintenance. We showed that BACH2 restrains effector differentiation and promote generation of long-lived memory CD8+ T cells after viral infection. We found that BACH2 binds to enhancers where it engages in steric competition with AP-1 factors, limiting TCR-driven induction of AP-1 target genes to promote memory formation. 
+  description: This study was the first to define BACH2 key regulator of lymphocyte quiescence. We showed that BACH2 restrains effector differentiation to promote differentiation of long-lived memory CD8+ T cells after viral infection. We found that BACH2 binds to enhancers where it engages in steric competition with AP-1 factors, limiting TCR-driven induction of AP-1 target genes to promote memory formation. Subsequent work has shown that BACH2 is expressed in stem-like progenitors within T cell responses to cancer.
   authors: Roychoudhuri et al.
   link:
     url: Roychoudhuri NI 2016.pdf
