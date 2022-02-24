@@ -47,11 +47,11 @@ T cell responses are clonally expanded from small numbers of antigen-specific na
 </figcaption></figure></div>
 
 We have a long-standing interest in T cell memory. We conducted one of the earliest multiplexed single-cell gene expression analyses of immune cells revealing unappreciated heterogeneity in memory CD8+ T responses to vaccination (PNAS 2011). We defined transcriptional and epigenetic programmes of vaccine-induced memory T cells (Vaccine 2015, Cell Mol Immunol 2015). We defined molecular mechanisms by which long-lived memory CD8+ T cell responses to viral infection are maintained (Nat Immunol 2016).  We showed that long-term maintenance of Treg populations is dependent upon the presence of a subset of functionally quiescent cells marked by high levels of Bach2 expression (J Exp Med 2020). We have contributed to work showing that inhibition of AKT signalling enables expansion of T cells with a long-lived memory phenotype which mediates superior **adoptive immunotherapy responses** upon transfer into tumour-bearing recipients (Cancer Res, 2015), and that memory T cell–driven differentiation of naive cells impairs adoptive immunotherapy (J Clin Invest, 2015).
-
+</div>
 <br />
 ### Research Highlights
 (For a full list of publications **see below**)
 <div id="gridid">
 {% include publication_highlights.html %}
 </div>
-</div>
+
