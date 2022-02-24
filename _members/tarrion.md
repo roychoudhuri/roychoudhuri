@@ -5,7 +5,7 @@ position: Doctoral scientist
 tier: d
 picture: tarrion.jpg
 email: temb2@cam.ac.uk 
-pubmed_searchterm: baird tem [author]
+pubmed_searchterm: baird tarrion [author]
 ---
 
 Tarrion graduated from the University of Leeds in 2019 with an undergraduate degree in Biochemistry. As a part of this degree she spent a year in the oncology molecular pathology group at AstraZeneca, developing IHC assays for novel predictive biomarkers. She completed her undergraduate research project in the Naseem Lab, researching platelet-immune cell interactions.
