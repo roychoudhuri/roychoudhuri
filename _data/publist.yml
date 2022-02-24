@@ -1,7 +1,7 @@
 
 - title: "CCR8 marks highly suppressive Treg cells within tumours but is dispensable for their accumulation and suppressive function"
   image: Whiteside_immunology_ccr8_2021.png
-  description: There is intense interest in selectively targeting the suppressive function of Treg cells within tumours. We show that high levels of CCR8 expression distinguish highly suppressive Treg cells within tumours, but that genetic deletion of CCR8 has minimal impact on Treg suppressive function or tumor immunity. These findings suggest that CCR8 is not required for Treg suppression within tumours and that depletion of CCR8+ Treg cells rather than blockade of CCR8 function will enable selective cancer immunotherapy.
+  description: There is interest in selectively targeting the suppressive function of Treg cells within tumours. We show that high levels of CCR8 expression distinguish highly suppressive Treg cells within tumours, but that genetic deletion of CCR8 has minimal impact on Treg suppressive function or tumor immunity. These findings suggest that CCR8 is not required for Treg suppression within tumours and that depletion of CCR8+ Treg cells rather than blockade of CCR8 function will enable selective cancer immunotherapy.
   authors: Whiteside S, et al.
   link:
     url: 33838058.pdf
@@ -17,7 +17,7 @@
     url: nasrallah_imianowski_nature_2020.pdf
     display: <b><i>Nature</i> (2020)</b>
   highlight: 1
-  news2: Recommended by F1000; Commentary: <i>Sci Immunol</i> 5:eabe0976
+  news2: Recommended by F1000; Commentary: <i>Sci Immunol</i> 5,eabe0976
 
 - title: "BACH2 drives quiescence and maintenance of resting Treg cells to promote homeostasis and cancer immunosuppression"
   image: Grant_Yang_Bach2_JEM.png
