@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 <div id="research_contentid" >
-<h3 style="margin-top:0px">Immune Regulation</h3> 
+<h3 style="margin-top:0px">Immune regulation in inflammation and cancer: T cells</h3> 
 **T cells** drive immune activation and promote clearance of infections and cancer. However, their function can provoke autoimmune and allergic inflammation. The immune system therefore employs a variety of suppressive mechanisms, known as **immunoregulatory mechanisms**, to restrain excessive T cell activation and prevent autoimmune and allergic inflammation. It is now known that such suppressive mechanisms inhibit anti-tumour immunity to drive deleterious **immunosuppression** in cancer. Immunoregulatory mechanisms therefore function as ‘brakes’ within the immune system and are important therapeutic targets in **infection, inflammation and cancer**. This is exemplified by the clinical efficacy of cancer immunotherapies targeting the immune ‘checkpoints’ PD-1 and CTLA-4 in certain cancers. 
 
 We believe that fundamental discovery in the fields of immune regulation and cancer immunosuppression will enable development of new and more effective therapies for patients with presently incurable autoimmune and allergic diseases and cancer. Our research falls within three key areas described below.
