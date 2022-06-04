@@ -48,3 +48,21 @@ permalink: /team/
 {% endif %}
 
 <br />
+
+<h3>Collaborators</h3>
+{% for item in site.data.collaborations %}
+{% if item.link %}{% endif %}{{ item.title }}{% if item.link %}
+{% endif %}
+{% endfor %}
+
+<h3>Environment</h3>
+{% for item in site.data.affiliations %}
+{% if item.link %}{% endif %}{{ item.title }}{% if item.link %}
+{% endif %}
+{% endfor %}
+
+<h3>Facilities and resources</h3>
+{% for item in site.data.facilities %}
+{% if item.link %}{% endif %}{{ item.title }}{% if item.link %}
+{% endif %}
+{% endfor %}
