@@ -8,9 +8,9 @@ permalink: /vacancies
 
 <h3 style="margin-top:0px">Joining the lab</h3> 
 
-We are looking for new group members with passion, talent, and grit!
+Several Postdoc and PhD positions will become available over the next few months - please email me with expressions of interest, including a CV.
 
-You will have the chance to work on grand challenges in the field immune regulation and tumour immunity. You will be involved in determining the important and interesting questions, designing and performing measurements, making discoveries and publishing findings.
+We are looking for new group members with passion, talent, and grit! You will have the chance to work on grand challenges in the field immune regulation and tumour immunity. You will be involved in determining the important and interesting questions, designing and performing measurements, making discoveries and publishing findings.
 
 #### Applications for Postdoctoral Fellowships 
 We are happy to consider postdoc applications if you are interested in bringing your work to the laboratory. Please send me an [email](mailto:rr257@cam.ac.uk) stating briefly why you are interested in joining the group and attaching a CV.
