@@ -57,7 +57,10 @@ permalink: /team/
 
 
 <h3>Facilities</h3>
+We have access to the world-class research facilities of the University of Cambridge School of the Biological Sciences and the Department of Pathology, which provide state-of-the-art equipment, technical advice, and training. The facilities have an emphasis on quality and consistency and are vital in helping us deliver world-class research. Read more about [Research Facilities at the School of the Biological Sciences](https://www.bio.cam.ac.uk/facilities), and [Research Facilities at the Department of Pathology](https://www.path.cam.ac.uk/research/facilities). The following are facilities we make frequent use of:
+
 {% for item in site.data.facilities %}
 {% if item.link %}<a href="{{ item.link }}">{% endif %}{{ item.title }}{% if item.link %}</a>
 {% endif %}
 {% endfor %}
+<br />
