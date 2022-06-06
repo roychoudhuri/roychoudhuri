@@ -2,7 +2,7 @@
 - title: "CCR8 marks highly suppressive Treg cells within tumours but is dispensable for their accumulation and suppressive function"
   image: Whiteside_immunology_ccr8_2021.png
   description: There is interest in selectively targeting the suppressive function of Treg cells within tumours. We show that high levels of CCR8 expression distinguish highly suppressive Treg cells within tumours, but that genetic deletion of CCR8 has minimal impact on Treg suppressive function or tumor immunity. These findings suggest that CCR8 is not required for Treg suppression within tumours and that depletion of CCR8+ Treg cells rather than blockade of CCR8 function will enable selective cancer immunotherapy.
-  authors: Whiteside S, et al.
+  authors: Whiteside, et al.
   link:
     url: 33838058.pdf
     display: <b>Immunology (2021)</b>
@@ -12,7 +12,7 @@
 - title: "A distal enhancer at risk locus 11q13.5 promotes suppression of colitis by Treg cells"
   image: Nasrallah_Imianowski_Lrrc32_Nature.png
   description: Genetic variations underlying risk of complex immune-mediated diseases are concentrated within the non-coding genome at enhancers. The functions of a vast majority of enhancers are unresolved. Using CRISPR-based mutagenesis of human disease-associated enhancer homologs in mice, we show that a distal enhancer at the human 11q13.5 immune disease risk locus promotes Treg-mediated suppression of colitis by driving expression of the TGF-β docking receptor GARP on Treg cells.
-  authors: Nasrallah R, Imianowski C, et al.
+  authors: Nasrallah, Imianowski, et al.
   link:
     url: nasrallah_imianowski_nature_2020.pdf
     display: <b>Nature (2020)</b>
@@ -22,7 +22,7 @@
 - title: "BACH2 drives quiescence and maintenance of resting Treg cells to promote homeostasis and cancer immunosuppression"
   image: Grant_Yang_Bach2_JEM.png
   description: Treg cells are maintained over long periods of time despite a continuous requirement for their suppressive function. This study established a critical function of quiescent cells in Treg maintenance. The transcription factor BACH2 is critical for Treg cell development. We show that in mature Treg cells, Bach2 is highly expressed in quiescent cells where it binds to enhancers of genes associated with Treg activation and represses their TCR- and AP-1-driven induction. By imposing quiescence in this subset of Treg cells, BACH2 promotes maintenance of Treg responses, and durable immune suppression in cancer. 
-  authors: Grant FM, Yang J, et al.
+  authors: Grant, Yang et al.
   link:
     url: Grant_Yang_JEM.pdf
     display: <b>J Exp Med (2020)</b> 
@@ -43,7 +43,7 @@
 - title: "BACH transcription factors in innate and adaptive immunity"
   image: igarashi_nri_2017_b.png
   description: Here we review roles of BACH family transcriptional repressors in innate and adaptive immunity. We highlight similarities at a molecular level in the cell-type-specific activities of the BACH factors, proposing that competitive interactions of BACH proteins with transcriptional activators of the bZIP family form a common mechanistic theme underlying their diverse actions. 
-  authors: Igarashi K, Kurosaki T and Roychoudhuri R
+  authors: Igarashi, Kurosaki and Roychoudhuri
   link:
     url: Igarashi NRI 2017.pdf
     display: <b>Nat Rev Immunol (2017)</b> 17:437-450. 
@@ -53,7 +53,7 @@
 - title: "High levels of extracellular potassium in tumours suppress T cell activation"
   image: eil_nature_2016_b.png
   description: This study revealed that cell death in the tumour microenvironment releases intracellular potassium into the extracellular microenvironment of tumours, causing profound suppression of T cell activation. High extracellular potassium concentrations impair T cell receptor (TCR)-driven Akt-mTOR phosphorylation and effector programmes. Engineering CD8+ T cells to be resistant to high extracellular potassium in tumours improves adoptive immunotherapy.
-  authors: Eil R et al.
+  authors: Eil et al.
   link:
     url: Eil Nature 2016.pdf
     display: <b>Nature (2016)</b> 537:539-543.
@@ -63,7 +63,7 @@
 - title: "Oxygen-sensing by T cells promotes cancer metastasis to the lung"
   image: clever_cell_2016_a.png
   description: The lung is a frequent site of cancer metastasis but whether there is an immunological component to this susceptibility has been unclear. Here, we show that T cell responses to metastasis within the lung are restricted by high oxygen concentrations. The HIF prolyl hydroxylases PHD1, PHD2 and PHD3 mediate sensitivity of T cells to oxygen, which suppresses Th1 responses and promotes iTreg responses within the lung. As a consequence, immunologic permissivity of the lung to cancer metastasis is dependent upon PHD1, PHD2 and PHD3.
-  authors: Clever D et al.
+  authors: Clever et al.
   link:
     url: Clever Cell 2016.pdf
     display: <b>Cell (2016)</b> 166:1117-1131
