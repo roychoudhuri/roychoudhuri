@@ -8,7 +8,7 @@ permalink: /vacancies
 
 <h3 style="margin-top:0px">Joining the lab</h3> 
 
-Several Postdoc and PhD positions will become available over the next few months - please email me with expressions of interest, including a CV.
+Several Postdoc and PhD positions will become available over the next few months - please email me with expressions of interest, including a CV. 
 
 We are looking for new group members with passion, talent, and grit! You will have the chance to work on grand challenges in the field immune regulation and tumour immunity. You will be involved in determining the important and interesting questions, designing and performing measurements, making discoveries and publishing findings.
 
