@@ -5,7 +5,7 @@
   authors: Whiteside S, et al.
   link:
     url: 33838058.pdf
-    display: <b><i>Immunology</i> (2021)</b>
+    display: <b>Immunology (2021)</b>
   highlight: 1
   news2:
   
@@ -15,9 +15,9 @@
   authors: Nasrallah R, Imianowski C, et al.
   link:
     url: nasrallah_imianowski_nature_2020.pdf
-    display: <b><i>Nature</i> (2020)</b>
+    display: <b>Nature (2020)</b>
   highlight: 1
-  news2: Recommended by F1000; Commentary in <i>Sci Immunol</i> 5,eabe0976
+  news2: Recommended by F1000; Commentary in Sci Immunol 5,eabe0976
 
 - title: "BACH2 drives quiescence and maintenance of resting Treg cells to promote homeostasis and cancer immunosuppression"
   image: Grant_Yang_Bach2_JEM.png
@@ -25,7 +25,7 @@
   authors: Grant FM, Yang J, et al.
   link:
     url: Grant_Yang_JEM.pdf
-    display: <b><i>J Exp Med</i> (2020)</b> 
+    display: <b>J Exp Med (2020)</b> 
   highlight: 1
   news2:
   
@@ -36,7 +36,7 @@
   authors: Afzali et al.
   link:
     url: Afzali NI 2017.pdf
-    display: <b><i>Nat Immunol</i> (2017)</b> 18:813-823. 
+    display: <b>Nat Immunol (2017)</b> 18:813-823. 
   highlight: 1
   news2: 
  
@@ -46,7 +46,7 @@
   authors: Igarashi K, Kurosaki T and Roychoudhuri R
   link:
     url: Igarashi NRI 2017.pdf
-    display: <b><i>Nat Rev Immunol</i> (2017)</b> 17:437-450. 
+    display: <b>Nat Rev Immunol (2017)</b> 17:437-450. 
   highlight: 1
   news2: 
 
@@ -56,7 +56,7 @@
   authors: Eil R et al.
   link:
     url: Eil Nature 2016.pdf
-    display: <b><i>Nature</i> (2016)</b> 537:539-543.
+    display: <b>Nature (2016)</b> 537:539-543.
   highlight: 1
   news2: 
 
@@ -66,7 +66,7 @@
   authors: Clever D et al.
   link:
     url: Clever Cell 2016.pdf
-    display: <b><i>Cell</i> (2016)</b> 166:1117-1131
+    display: <b>Cell (2016)</b> 166:1117-1131
   highlight: 1
   news2: 
 
@@ -76,7 +76,7 @@
   authors: Roychoudhuri et al.
   link:
     url: Roychoudhuri NI 2016.pdf
-    display: <b><i>Nat Immunol</i> (2016)</b> 17:851-860. 
+    display: <b>Nat Immunol (2016)</b> 17:851-860. 
   highlight: 1
   news2: Commentary by Sidwell and Kallies (<a href="http://dx.doi.org/10.1038/ni.3493">Nat Immunol 17:744-5</a>.  
 
@@ -87,7 +87,7 @@
   authors: Roychoudhuri et al.
   link:
     url: Roychoudhuri JCI 2016.pdf
-    display: <b><i>J Clin Invest</i> (2016)</b> 126:599-604.
+    display: <b>J Clin Invest (2016)</b> 126:599-604.
   highlight: 1
   news2: 
 
@@ -97,6 +97,6 @@
   authors: Roychoudhuri et al.
   link:
     url: Roychoudhuri Nature 2013.pdf
-    display: <b><i>Nature</i> (2013)</b> 498:506-10.
+    display: <b>Nature (2013)</b> 498:506-10.
   highlight: 1
   news2: <b>Recommended by <a href="https://f1000.com/prime/718015787">F1000</a></b>
