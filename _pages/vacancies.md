@@ -27,12 +27,12 @@ If you are looking for a Masters project in the laboratory, contact me by email 
 <h3 style="margin-top:0px">Group Members</h3> 
 
  **You'd be joining a friendly, motivated, and highly collaborative team in a leading research environment in the heart of Cambridge**
+ 
 {% assign members_sorted = site.members | sort: 'tier' %}
 {% for member in members_sorted %}
-<li>
+
   <a style="text-decorations:none; color: inherit; " href="{{ site.url }}{{ site.baseurl }}{{ member.url }}">{{ member.fullname }}, {{ member.position }}</a>. Email: {{ member.email }}<br>
-  <i>>> <a style="text-decorations:none; " href="{{ site.url }}{{ site.baseurl }}{{ member.url }}">More information</a></i>
-</li>
+  <i>>> <a style="text-decorations:none; " href="{{ site.url }}{{ site.baseurl }}{{ member.url }}">More information</a></i><br>
 
 {% endfor %}
 
