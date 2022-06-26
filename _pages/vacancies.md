@@ -20,7 +20,7 @@ We are well supported by a variety of external funding agencies, several of whic
 #### Master's and Bachelor's internships
 If you are looking for a Masters project in the laboratory, contact me by email with a copy of your CV, a start and end date of the internship, and a brief statement of why you'd be interested in joining the laboratory.
 
-<div style="width:80%; display: inline-block; float:none; vertical-align: top; clear: both;">
+<div style="width:100%; display: inline-block; float:none; vertical-align: top; clear: both;">
  {% include carousel.html %}
  </div>
 
@@ -28,40 +28,7 @@ If you are looking for a Masters project in the laboratory, contact me by email 
 
  **You'd be joining a friendly, motivated, and highly collaborative team in a leading research environment in the heart of Cambridge**
 
-{% assign number_printed = 0 %}
-{% assign members_sorted = site.members | sort: 'tier' %}
-{% for member in members_sorted %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-12 clearfix">
-  <a href="{{ site.url }}{{ site.baseurl }}{{ member.url }}">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/member_pic/{{ member.picture }}" class="img-responsive" width="25%" style="float: left" /></a>
-  <h4> <a style="text-decorations:none; color:inherit;" href="{{ site.url }}{{ site.baseurl }}{{ member.url }}">{{ member.fullname }}</a></h4>
-  {{ member.position }}<br>
-  email: {{ member.email }}<br>
-  <i>>> <a style="text-decorations:none; " href="{{ site.url }}{{ site.baseurl }}{{ member.url }}">More information</a></i>
-  <ul style="overflow: hidden">
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+{% include research_team_list.html %} 
 
 <br />
 <h3>Collaborators</h3>
