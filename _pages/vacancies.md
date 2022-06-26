@@ -26,7 +26,7 @@ If you are looking for a Masters project in the laboratory, contact me by email 
 
 <h3 style="margin-top:0px">Group Members</h3> 
 
- **You'd be joining a friendly, motivated, and highly collaborative team in one of the most exciting research environments in the world, here in Cambridge**
+ **You'd be joining a friendly, motivated, and highly collaborative team in a leading research environment in the heart of Cambridge**
 
 {% assign number_printed = 0 %}
 {% assign members_sorted = site.members | sort: 'tier' %}
@@ -38,7 +38,7 @@ If you are looking for a Masters project in the laboratory, contact me by email 
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-12 clearfix">
   <a href="{{ site.url }}{{ site.baseurl }}{{ member.url }}">
   <img src="{{ site.url }}{{ site.baseurl }}/images/member_pic/{{ member.picture }}" class="img-responsive" width="25%" style="float: left" /></a>
   <h4> <a style="text-decorations:none; color:inherit;" href="{{ site.url }}{{ site.baseurl }}{{ member.url }}">{{ member.fullname }}</a></h4>
