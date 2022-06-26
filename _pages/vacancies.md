@@ -31,7 +31,7 @@ If you are looking for a Masters project in the laboratory, contact me by email 
 {% assign members_sorted = site.members | sort: 'tier' %}
 {% for member in members_sorted %}
 
-  <b><a style="" href="{{ site.url }}{{ site.baseurl }}{{ member.url }}">{{ member.fullname }}, {{ member.position }}</a></b>. Email: {{ member.email }}. <i><a style="text-decorations:none; " href="{{ site.url }}{{ site.baseurl }}{{ member.url }}">More information</a></i><br>
+  <b><a style="" href="{{ site.url }}{{ site.baseurl }}{{ member.url }}">{{ member.fullname }}, {{ member.position }}</a></b>. Email: {{ member.email }}.<br /><i><a style="text-decorations:none; " href="{{ site.url }}{{ site.baseurl }}{{ member.url }}">More information</a></i><br>
 
 {% endfor %}
 
