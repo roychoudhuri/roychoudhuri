@@ -1,3 +1,23 @@
+- title: "BACH2 restricts NK cell maturation and function limiting immunity to cancer metastasis"
+  image: bach2nk.png
+  description: Natural killer (NK) cells are critical to immune surveillance against infections and cancer. Here we show that the transcription factor BACH2 functions as a critical negative regulator of NK cell function within tissues, restricting immunity to cancer metastasis. The findings show that the maturation state of NK cells in tissues is a major determinant of anti-metastatic immunity. 
+  authors: Imianowski, et al.
+  link:
+    url: Imianowski_JEM.pdf
+    display: <b>J Exp Med (2022)</b>
+  highlight: 1
+  news2:
+
+
+- title: "IL-2 is inactivated by the acidic pH environment of tumours enabling engineering of a pH-selective mutein"
+  image: switch2.png
+  description: Here, we show that IL-2, a cytokine critical to supporting CD8 T cell and NK cell functions within tumours exhibits markedly compromised binding to the IL-2Rα receptor chain in acidic extracellular environments. Directed evolution was used to screen for IL-2 variants with mutations at the receptor interface that enhanced receptor binding at low pH. A mutated “Switch-2” variant of IL-2 with strong receptor binding at pH 6 but minimal interaction at neutral pH exhibited enhanced in vivo antitumor activity with reduced toxicity in normal tissues.
+  authors: Gaggero, Martinez-Fabregas, et al.
+  link:
+    url: nasrallah_imianowski_nature_2020.pdf
+    display: <b>Science Immunology (2022)</b>
+  highlight: 1
+  news2:
 
 - title: "CCR8 marks highly suppressive Treg cells within tumours but is dispensable for their accumulation and suppressive function"
   image: Whiteside_immunology_ccr8_2021.png
