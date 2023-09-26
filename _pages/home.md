@@ -1,7 +1,7 @@
 ---
 title: "Roychoudhuri Lab - Home"
 layout: homelay
-excerpt: "Roychoudhuri Lab at the University of Cambridge."
+excerpt: "Laboratory of Prof Rahul Roychoudhuri at the University of Cambridge."
 sitemap: false
 permalink: /
 ---
@@ -11,7 +11,7 @@ permalink: /
 Our research aims to uncover the molecular and cellular mechanisms underpinning immune regulation and cancer immunosuppression. Fundamental discovery in the field of immunoregulation will pave the way for new therapies aimed at manipulating immune function in patients with autoimmunity and cancer (see [Research](research)). 
 
 {% include carousel.html %}
-Our laboratory, led by [Dr Rahul Roychoudhuri]({{ site.url }}{{ site.baseurl }}/member/rahul), is located at the University of Cambridge Department of Pathology and works closely with collaborators within both the University and broader Cambridge immunology community. Our work benefits from access to the world-class research facilities of the University of Cambridge.
+Our laboratory, led by [Prof Rahul Roychoudhuri]({{ site.url }}{{ site.baseurl }}/member/rahul), is located at the University of Cambridge Department of Pathology and works closely with collaborators within both the University and broader Cambridge immunology community. Our work benefits from access to the world-class research facilities of the University of Cambridge.
 
 
 ### Publication highlights
