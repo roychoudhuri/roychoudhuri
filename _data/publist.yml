@@ -1,3 +1,13 @@
+
+- title: "Acquisition of suppressive function by conventional T cells limits antitumor immunity upon Treg depletion"
+  image: Whiteside_SI_2023.png
+  description: Strategies to disrupt Treg cell–mediated cancer immunosuppression have been met with limited clinical success. By modeling Treg cell–targeted immunotherapy in mice, we find that CD4+ Foxp3− conventional T (Tconv) cells acquire suppressive function upon depletion of Foxp3+ Treg cells, limiting therapeutic efficacy. This activity is attributable to a Th2-like subset of CCR8+ Tconv cells which mediate IL-10–dependent suppression of antitumor immunity.  
+  authors: Whiteside, et al.
+  link:
+    url: Whiteside_SI.pdf
+    display: <b>Sci Immunol (2023)</b>
+  highlight: 1
+  news2:
 - title: "BACH2 restricts NK cell maturation and function limiting immunity to cancer metastasis"
   image: bach2nk.png
   description: Natural killer (NK) cells are critical to immune surveillance against infections and cancer. Here we show that the transcription factor BACH2 functions as a critical negative regulator of NK cell function within tissues, restricting immunity to cancer metastasis. The findings show that the maturation state of NK cells in tissues is a major determinant of anti-metastatic immunity. 
@@ -7,7 +17,6 @@
     display: <b>J Exp Med (2022)</b>
   highlight: 1
   news2:
-
 
 - title: "IL-2 is inactivated by the acidic pH environment of tumours enabling engineering of a pH-selective mutein"
   image: switch2.png
