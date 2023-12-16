@@ -1,11 +1,11 @@
 
 - title: "Acquisition of suppressive function by conventional T cells limits antitumor immunity upon Treg depletion"
   image: Whiteside_SI_2023.png
-  description: Strategies to disrupt Treg cell–mediated cancer immunosuppression have been met with limited clinical success. By modeling Treg cell–targeted immunotherapy in mice, we find that CD4+ Foxp3− conventional T (Tconv) cells acquire suppressive function upon depletion of Foxp3+ Treg cells, limiting therapeutic efficacy. This activity is attributable to a Th2-like subset of CCR8+ Tconv cells which mediate IL-10–dependent suppression of antitumor immunity.  
+  description: Strategies to disrupt Treg cell–mediated cancer immunosuppression have been met with limited clinical success. By modeling Treg cell–targeted immunotherapy in mice, we find that CD4+ Foxp3− conventional T (Tconv) cells acquire suppressive function upon depletion of Foxp3+ Treg cells, limiting therapeutic efficacy. This activity is attributable to a Th2-like subset of CCR8+ Tconv cells which mediate IL-10–dependent suppression of antitumor immunity. 
   authors: Whiteside, et al.
   link:
     url: Whiteside_SI.pdf
-    display: <b>Sci Immunol (2023)</b>
+    display: <b>Science Immunology (2023)</b>
   highlight: 1
   news2:
   
