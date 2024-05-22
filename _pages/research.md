@@ -45,7 +45,7 @@ We have a long-standing interest in T cell memory. We conducted one of the earli
 
 <div style="text-align:left">
 <figure style="width:90%; min-width: 350px; display: inline-block; float:none; vertical-align: top; clear: both;">![Stemness and maintenance of T cell responses]({{ site.url }}{{ site.baseurl }}/images/respic/Stemness and maintenance web.png)
-<figcaption><b>Figure 3. a-b,</b> In both acute and chronic immune responses, T cells undergo progressive differentiation accompanied by acquisition of effector functions and loss of maintenance potential self-renewal and multipotency. This loss of maintenance potential is a key feature of the progression of T cells from naive, effector, and memory T cell subsets in acute responses, as well as progenitor, intermediate, and terminally exhausted T cells in chronic responses.
+<figcaption><b>Figure 3.</b> In both acute and chronic immune responses, T cells undergo progressive differentiation accompanied by acquisition of effector functions and loss of maintenance potential self-renewal and multipotency. This loss of maintenance potential is a key feature of the progression of T cells from naive, effector, and memory T cell subsets in acute responses, as well as progenitor, intermediate, and terminally exhausted T cells in chronic responses.
 </figcaption></figure></div>
 
 </div>
