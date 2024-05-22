@@ -5,8 +5,8 @@ excerpt: "Roychoudhuri Lab -- Datasets and Resources."
 sitemap: false
 permalink: /datasets/
 ---
- 
-<h3 style="margin-top:0px">GS-TCGA: Gene Set-based Analysis of The Cancer Genome Atlas</h3>
+<h3 style="margin-top:0px">Tools</h3> 
+<h4 style="margin-top:0px">GS-TCGA: Gene Set-based Analysis of The Cancer Genome Atlas</h4>
  
 Most tools for analysing large gene expression datasets, including The Cancer Genome Atlas (TCGA), focus on analysis of expression of individual genes or inference of the abundance of specific cell types from global gene expression data. While these methods provide useful
 insights, they can overlook crucial process-based information that could enhance our understanding of cancer biology.
