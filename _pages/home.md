@@ -10,8 +10,8 @@ permalink: /
 
 Our research aims to uncover the molecular and cellular mechanisms underpinning immune regulation and cancer immunosuppression. Fundamental discovery in the field of immunoregulation will pave the way for new therapies aimed at manipulating immune function in patients with autoimmunity and cancer (see [Research](research)). 
 
-{% include carousel.html %}
 The laboratory is located at the [Department of Pathology](https://www.path.cam.ac.uk/) and forms part of the [CRUK Cambridge Centre](https://crukcambridgecentre.org.uk/).  The laboratory is led by [Rahul Roychoudhuri]({{ site.url }}{{ site.baseurl }}/member/rahul) who is Professor of Cancer Immunology and Immunotherapy at the University of Cambridge. 
+{% include carousel.html %}
 ### Publication highlights
 (For a full list see [Publications](publications))
 <div id="gridid">
