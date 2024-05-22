@@ -8,19 +8,17 @@ permalink: /vacancies
 
 <h3 style="margin-top:0px">Joining the lab</h3> 
 
-We are looking for new group members with passion, talent, and grit! You will have the chance to work on grand challenges in the field immune regulation and tumour immunity. You will be involved in determining the important and interesting questions, designing and performing measurements, making discoveries and publishing findings.
+We are looking for new group members with passion, talent, and grit! You will have the chance to work on grand challenges in the field immune regulation and tumour immunity. You will be responsible for driving your research, identifying the most important questions, designing and performing experiments and publishing findings.
 
 Several Postdoc and PhD positions are available over the next few months - please email me with expressions of interest, including a CV. 
 
+#### Applications for Postdoctoral Fellowships 
+We are happy to support the most talented postdoctoral researchers to apply for fellowships in the group. Please contact me if you'd like to discuss this route to joining the laboratory.  Please send me an [email](mailto:rr257@cam.ac.uk) stating briefly why you are interested in joining the group and attaching a CV.
+
 #### PhD studentships in the laboratory
-We have three PhD studentships available in the laboratory for an October 2023 start date, which are listed here:
+I am happy to consider and support applications for PhD studentships. Should funded studentships be available in the laboratory, they will be advertised on the following website:
 
 [Roychoudhuri lab PhD Studentships](https://www.findaphd.com/phds/?Keywords=roychoudhuri)
-
-#### Applications for Postdoctoral Fellowships 
-We have a number of Postdoctoral Research Scientist positions opening in 2023. Please send me an [email](mailto:rr257@cam.ac.uk) stating briefly why you are interested in joining the group and attaching a CV.
-
-We are happy to support the most talented postdoctoral researchers to apply for fellowships in the group. Please contact me if you'd like to discuss this route to joining the laboratory. 
 
 #### Master's and Bachelor's internships
 If you are looking for a Masters project in the laboratory, contact me by email with a copy of your CV, a start and end date of the internship, and a brief statement of why you'd be interested in joining the laboratory.
