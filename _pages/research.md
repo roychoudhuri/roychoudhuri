@@ -17,8 +17,7 @@ We believe that fundamental discovery in the fields of immune regulation and can
 
 Cancers adapt to their immune environment to evade attack. By the time cancers are clinically relevant, they have learned to subvert the biochemical, metabolic and ionic environment of tumours, and co-opt the immunosuppressive functions of a variety of immunoregulatory cells, to drive immune dysfunction (<b>Figure 1</b>). We are applying **directed tumour evolution** and **high-throughput CRISPR-based functional genetics**, to identify novel immunoregulatory mechanisms operating within the tumour microenvironment. 
 
-<figure>![How is the function of the immune system suppressed during tumour development?]
-({{ site.url }}{{ site.baseurl }}/images/respic/cancer_development.png)
+<figure>![How is the function of the immune system suppressed during tumour development?]({{ site.url }}{{ site.baseurl }}/images/respic/cancer_development.png)
 <figcaption><b>Figure 1. Phases of tumour development according to the cancer immunoediting hypothesis.</b> Tumour development is characterized by an initial ‘elimination’ phase, during which a majority of cancer cells are destroyed by a variety of components of the innate and adaptive immune systems, including CD8+ T cells and NK cells. This process results, referred to as immunoediting, results in an ‘equilibrium’ phase, during which pressure from the immune system contributes to selection of tumour variants that do not express antigens targeted by the adaptive immune system or have developed mechanisms to suppress immune function. This gives rise to the ‘escape’ phase characterized by recruitment and support of the differentiation and proliferation of immunosuppressive cell types including Treg cells, tumour-associated macrophages and myeloid-derived suppressor cells, expression of inhibitory ligands and such as PD-L1 and production of immunosuppressive factors such as TGF-b resulting in evasion from immune control and unrestrained tumour growth.
 </figcaption></figure>
 
@@ -44,7 +43,7 @@ We have a long-standing interest in T cell memory. We conducted one of the earli
 
 <div style="text-align:left">
 <figure style="width:90%; min-width: 350px; display: inline-block; float:none; vertical-align: top; clear: both;">![Stemness and maintenance of T cell responses]({{ site.url }}{{ site.baseurl }}/images/respic/Stemness and maintenance web.png)
-<figcaption><b>Figure 3.</b> In both acute and chronic immune responses, T cells undergo progressive differentiation accompanied by acquisition of effector functions and loss of maintenance potential self-renewal and multipotency. This loss of maintenance potential is a key feature of the progression of T cells from naive, effector, and memory T cell subsets in acute responses, as well as progenitor, intermediate, and terminally exhausted T cells in chronic responses.
+<figcaption><b>Figure 3. Maintenance of acute and chronic T cell responses.</b> In both acute and chronic immune responses, T cells undergo progressive differentiation accompanied by acquisition of effector functions and loss of maintenance potential self-renewal and multipotency. This loss of maintenance potential is a key feature of the progression of T cells from naive, effector, and memory T cell subsets in acute responses, as well as progenitor, intermediate, and terminally exhausted T cells in chronic responses.
 </figcaption></figure></div>
 
 </div>
