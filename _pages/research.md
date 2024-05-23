@@ -12,6 +12,7 @@ permalink: /research/
 We believe that fundamental discovery in the fields of immune regulation and cancer immunosuppression will enable development of new and more effective therapies for patients with presently incurable autoimmune and allergic diseases and cancer. Our research falls within three key areas described below.
 
 
+
 ### Suppression of T cell immunity in cancer
 
 Cancers adapt to their immune environment to evade attack. By the time cancers are clinically relevant, they have learned to subvert the biochemical, metabolic and ionic environment of tumours, and co-opt the immunosuppressive functions of a variety of immunoregulatory cells, to drive immune dysfunction (<b>Figure 1</b>). 
