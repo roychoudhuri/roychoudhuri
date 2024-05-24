@@ -2,7 +2,7 @@
 fullname: Alexander Wesolowski
 layout: members
 position: Postdoctoral Scientist
-tier: d
+tier: b
 picture: alexander.jpg 
 email: ajw299@cam.ac.uk 
 pubmed_searchterm: wesolowski alexander [author] 
