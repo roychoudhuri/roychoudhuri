@@ -15,13 +15,13 @@ insights, they can overlook crucial process-based information that could enhance
  
 It consists of four tools:
  
-[**Gene Set Survival Analysis:**](http://gs-tcga.roychoudhurilab.org/) GS-Surv allows the user to investigate how the average expression of genes in a specified gene set relates to overall survival in patient data.
+**Gene Set Survival Analysis:** GS-Surv allows the user to investigate how the average expression of genes in a specified gene set relates to overall survival in patient data.
  
-[**Co-Correlative Gene Set Enrichment Analysis:**](http://gs-tcga.roychoudhurilab.org/) CC-GSEA allows generation of novel hypotheses of gene function through performing GSEA on co-correlated genes.
+**Co-Correlative Gene Set Enrichment Analysis:** CC-GSEA allows generation of novel hypotheses of gene function through performing GSEA on co-correlated genes.
  
-[**Gene Set Correlative Analysis:**](http://gs-tcga.roychoudhurilab.org/) GS-Corr calculates the average expression of a gene set and correlates this with individual genes.
+**Gene Set Correlative Analysis:** GS-Corr calculates the average expression of a gene set and correlates this with individual genes.
  
-[**GS-Surv (Custom):**](http://gs-tcga.roychoudhurilab.org/) This function allows you to upload your own gene set for GS-Surv survival analysis.
+**GS-Surv (Custom):** This function allows you to upload your own gene set for GS-Surv survival analysis.
  
 GS-TCGA was created by **Tarrion Baird** in our lab in 2023 and can be accessed at: [http://gs-tcga.roychoudhurilab.org/](http://gs-tcga.roychoudhurilab.org/)
   
