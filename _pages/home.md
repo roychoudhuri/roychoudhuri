@@ -1,6 +1,6 @@
 ---
 title: "Roychoudhuri Lab - Home"
-layout: researchlay
+layout:homelay
 excerpt: "Laboratory of Prof Rahul Roychoudhuri at the University of Cambridge."
 sitemap: false
 permalink: /
