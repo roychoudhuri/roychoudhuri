@@ -1,4 +1,14 @@
+- title: "IFN-γ Production by Functionally Reprogrammed Tregs Promotes Antitumor Efficacy of OX40/CD137 Bispecific Agonist Therapy"
+  image: Imianowski_CCR_2024.png
+  description: Regulatory T cells (Treg) are enriched within tumors and suppress immune responses to cancer. There is interest in reprogramming Tregs to contribute to antitumor immunity. Here, we show that OX40/CD137 bispecific agonists induce potent antitumor immunity in large part dependent upon functional reprogramming of Tregs to produce IFN-γ, through induction of both Treg lineage instability and fragility. Conditional deletion of Ifng in Foxp3+ Tregs and their progeny partially reversed the antitumor efficacy of OX40/CD137 bispecific agonist therapy, revealing that reprogramming of Tregs into IFNγ-producing cells contributes to the anti-tumor efficacy of OX40/CD137 bispecific agonists. 
 
+  authors: Imianowski, Kuo, et al.
+  link:
+    url: Imianowski_CCR.pdf
+    display: <b>Cancer Research Communications (2024)</b>
+  highlight: 1
+  news2:
+  
 - title: "Acquisition of suppressive function by conventional T cells limits antitumor immunity upon Treg depletion"
   image: Whiteside_SI_2023.png
   description: Strategies to disrupt Treg cell–mediated cancer immunosuppression have been met with limited clinical success. By modeling Treg cell–targeted immunotherapy in mice, we find that CD4+ Foxp3− conventional T (Tconv) cells acquire suppressive function upon depletion of Foxp3+ Treg cells, limiting therapeutic efficacy. This activity is attributable to a Th2-like subset of CCR8+ Tconv cells which mediate IL-10–dependent suppression of antitumor immunity. The findings reveal a counterregulatory layer of immunosuppression released upon therapeutic Treg cell depletion and suggest that broader consideration of suppressive function within the T cell lineage is required for development of effective Treg–targeted therapies.
