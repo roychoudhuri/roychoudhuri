@@ -5,15 +5,12 @@ layout: default
 	{{ content }}
   </div> 
   <div id="newsid" class="col-sm-3" >
- <h4>Group Members</h4>
+<h4>Group Members</h4>
 
 {% include research_team_list.html %} 
 &nbsp;<a style="color: inherit;" href="/team">[Team]</a>&nbsp;
 <a style="color: inherit;" href="/vacancies">[Join us]</a><br /><br />
 
-  <a style="background: url({{ site.url }}{{ site.baseurl }}/images/logopic/twitter_small.png) no-repeat left center; text-decoration: none; padding-left: 30px; padding-top: 3px; padding-bottom: 3px;" target="_blank" href="https://x.com/roychoudhurilab">@RoychoudhuriLab</a>
-<br />
-<br />
 <h4>Collaborators: </h4>
 
 <ul style="display: block; list-style-type: none; margin-top: 0em; margin-bottom: 3 em; margin-left: 0; margin-right: 0; padding-left: 0;">
@@ -24,7 +21,7 @@ layout: default
 </ul>
 <br />
 
-<h4>Affiliations: </h4>
+<h4>Environment: </h4>
 
 <ul style="display: block; list-style-type: none; margin-top: 0em; margin-bottom: 3 em; margin-left: 0; margin-right: 0; padding-left: 0;">
 {% for item in site.data.affiliations %}
@@ -33,6 +30,15 @@ layout: default
 </li>
 </ul>
 
+<br />
+<h4>Facilities and resources: </h4>
+
+<ul style="display: block; list-style-type: none; margin-top: 0em; margin-bottom: 3 em; margin-left: 0; margin-right: 0; padding-left: 0;">
+{% for item in site.data.facilities %}
+<li>{% if item.link %}<a href="{{ item.link }}" style="color: inherit;" target = "_blank">{% endif %}{{ item.title }}{% if item.link %}</a><br />{% endif %}</li>
+{% endfor %}
+</li>
+</ul>
 
 
   </div>
