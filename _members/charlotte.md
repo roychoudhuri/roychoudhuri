@@ -1,8 +1,8 @@
 ---
 fullname: Charlotte Imianowski
 layout: members
-position: Postdoctoral Scientist
-tier: c
+position: Doctoral Scientist
+tier: d
 picture: charlotte.jpg 
 email: cji27@cam.ac.uk 
 pubmed_searchterm: imianowski cj [author] 
