@@ -1,3 +1,14 @@
+- title: "Aspirin prevents metastasis by limiting platelet TXA2 suppression of T cell immunity"
+  image: Yang_Nature_2025.png
+  description: Meta-analyses of large randomised controlled studies show that people who take aspirin may be at reduced risk of cancer metastasis. Here we show that aspirin enhances immunity to cancer metastasis by releasing T cells from suppression by platelet-derived thromboxane A2 (TXA2). TXA2 acts on T cells to trigger an immunosuppressive pathway that is dependent on the guanine exchange factor ARHGEF1. Consequently, restricting the availability of TXA2 using aspirin, selective COX-1 inhibitors or platelet-specific deletion of COX-1 reduces the rate of metastasis in a manner that is dependent on T cell-intrinsic expression of ARHGEF1 and signalling by TXA2 in vivo. 
+
+  authors: Yang, et al.
+  link:
+    url: Yang_Nature_2025.pdf
+    display: <b>Nature (2025)</b>
+  highlight: 1
+  news2:
+
 - title: "IFN-γ Production by Functionally Reprogrammed Tregs Promotes Antitumor Efficacy of OX40/CD137 Bispecific Agonist Therapy"
   image: Imianowski_CCR_2024.png
   description: Regulatory T cells (Treg) are enriched within tumors and suppress immune responses to cancer. There is interest in reprogramming Tregs to contribute to antitumor immunity. Here, we show that OX40/CD137 bispecific agonists induce potent antitumor immunity in large part dependent upon functional reprogramming of Tregs to produce IFN-γ, through induction of both Treg lineage instability and fragility. Conditional deletion of Ifng in Foxp3+ Tregs and their progeny partially reversed the antitumor efficacy of OX40/CD137 bispecific agonist therapy, revealing that reprogramming of Tregs into IFNγ-producing cells contributes to the anti-tumor efficacy of OX40/CD137 bispecific agonists. 
