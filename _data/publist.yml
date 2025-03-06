@@ -5,7 +5,7 @@
   authors: Yang, et al.
   link:
     url: Yang_Nature_2025.pdf
-    display: <b>Nature (2025)</b>
+    display: <b><i>Nature</i> (2025)</b>
   highlight: 1
   news2:
 
@@ -16,7 +16,7 @@
   authors: Imianowski, Kuo, et al.
   link:
     url: Imianowski_CCR.pdf
-    display: <b>Cancer Research Communications (2024)</b>
+    display: <b><i>Cancer Research Communications</i> (2024)</b>
   highlight: 1
   news2:
   
@@ -27,7 +27,7 @@
   authors: Whiteside, et al.
   link:
     url: Whiteside_SI.pdf
-    display: <b>Science Immunology (2023)</b>
+    display: <b><i>Science Immunology</i> (2023)</b>
   highlight: 1
   news2:
   
@@ -37,7 +37,7 @@
   authors: Imianowski, et al.
   link:
     url: Imianowski_JEM.pdf
-    display: <b>J Exp Med (2022)</b>
+    display: <b><i>J Exp Med</i> (2022)</b>
   highlight: 1
   news2:
 
@@ -47,7 +47,7 @@
   authors: Gaggero, Martinez-Fabregas, et al.
   link:
     url: 36459543.pdf
-    display: <b>Science Immunology (2022)</b>
+    display: <b><i>Science Immunology</i> (2022)</b>
   highlight: 1
   news2:
 
@@ -57,7 +57,7 @@
   authors: Whiteside, et al.
   link:
     url: 33838058.pdf
-    display: <b>Immunology (2021)</b>
+    display: <b><i>Immunology</i> (2021)</b>
   highlight: 1
   news2:
   
@@ -67,7 +67,7 @@
   authors: Nasrallah, Imianowski, et al.
   link:
     url: nasrallah_imianowski_nature_2020.pdf
-    display: <b>Nature (2020)</b>
+    display: <b><i>Nature</i> (2020)</b>
   highlight: 1
   news2: Recommended by F1000; Commentary in Sci Immunol 5,eabe0976
 
@@ -77,7 +77,7 @@
   authors: Grant, Yang et al.
   link:
     url: Grant_Yang_JEM.pdf
-    display: <b>J Exp Med (2020)</b> 
+    display: <b><i>J Exp Med</i> (2020)</b> 
   highlight: 1
   news2:
   
@@ -88,7 +88,7 @@
   authors: Afzali et al.
   link:
     url: Afzali NI 2017.pdf
-    display: <b>Nat Immunol (2017)</b> 18:813-823. 
+    display: <b><i>Nat Immunol</i> (2017)</b> 18:813-823. 
   highlight: 1
   news2: 
  
@@ -98,7 +98,7 @@
   authors: Igarashi, Kurosaki and Roychoudhuri
   link:
     url: Igarashi NRI 2017.pdf
-    display: <b>Nat Rev Immunol (2017)</b> 17:437-450. 
+    display: <b><i>Nat Rev Immunol</i> (2017)</b> 17:437-450. 
   highlight: 1
   news2: 
 
@@ -108,7 +108,7 @@
   authors: Eil et al.
   link:
     url: Eil Nature 2016.pdf
-    display: <b>Nature (2016)</b> 537:539-543.
+    display: <b><i>Nature</i> (2016)</b> 537:539-543.
   highlight: 1
   news2: 
 
@@ -118,7 +118,7 @@
   authors: Clever et al.
   link:
     url: Clever Cell 2016.pdf
-    display: <b>Cell (2016)</b> 166:1117-1131
+    display: <b><i>Cell</i> (2016)</b> 166:1117-1131
   highlight: 1
   news2: 
 
@@ -128,7 +128,7 @@
   authors: Roychoudhuri et al.
   link:
     url: Roychoudhuri NI 2016.pdf
-    display: <b>Nat Immunol (2016)</b> 17:851-860. 
+    display: <b><i>Nat Immunol</i> (2016)</b> 17:851-860. 
   highlight: 1
   news2: Commentary by Sidwell and Kallies (<a href="http://dx.doi.org/10.1038/ni.3493">Nat Immunol 17:744-5</a>.  
 
@@ -139,7 +139,7 @@
   authors: Roychoudhuri et al.
   link:
     url: Roychoudhuri JCI 2016.pdf
-    display: <b>J Clin Invest (2016)</b> 126:599-604.
+    display: <b><i>J Clin Invest</i> (2016)</b> 126:599-604.
   highlight: 1
   news2: 
 
@@ -148,7 +148,7 @@
   description: This study established the critical function of the transcription factor BACH2 in immunological tolerance. We found that BACH2 is required for early Treg cell development and its deletion in mice results in lethal inflammation. The findings contributed to our understanding of why genetic polymorphisms within the BACH2 locus in humans are associated with susceptibility to autoimmune and allergic diseases (reviewed in Igarashi, Kurosaki and Roychoudhuri, Nat Rev Immunol 2017).
   authors: Roychoudhuri et al.
   link:
-    url: Roychoudhuri Nature 2013.pdf
-    display: <b>Nature (2013)</b> 498:506-10.
+    url: Roychoudhuri Nature</i> 2013.pdf
+    display: <b><i>Nature (2013)</b> 498:506-10.
   highlight: 1
   news2: <b>Recommended by <a href="https://f1000.com/prime/718015787">F1000</a></b>
