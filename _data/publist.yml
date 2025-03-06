@@ -1,6 +1,6 @@
 - title: "Aspirin prevents metastasis by limiting platelet TXA2 suppression of T cell immunity"
   image: Yang_Nature_2025.png
-  description: Meta-analyses of large randomised controlled studies suggest that people who take aspirin may be at reduced risk of cancer metastasis. Here we show that aspirin enhances immunity to cancer metastasis by releasing T cells from suppression by platelet-derived thromboxane A2 (TXA2). TXA2 acts on T cells to trigger an immunosuppressive pathway dependent on a guanine exchange factor ARHGEF1. Restricting the availability of TXA2 using aspirin or selective COX-1 inhibitors reduces the rate of metastasis in a manner dependent on T cell-intrinsic expression of ARHGEF1. 
+  description: Retrospective clinical studies suggest that people who take aspirin may be at reduced risk of cancer metastasis. Here we show that aspirin enhances immunity to cancer metastasis by releasing T cells from suppression by platelet thromboxane A2 (TXA2). TXA2 acts on T cells to trigger an immunosuppressive pathway dependent on a guanine exchange factor ARHGEF1. Restricting the availability of TXA2 using aspirin or COX-1 inhibitors reduces the rate of metastasis in a manner dependent on T cell-intrinsic expression of ARHGEF1.
 
   authors: Yang, et al.
   link:
@@ -11,7 +11,7 @@
 
 - title: "IFN-γ Production by Functionally Reprogrammed Tregs Promotes Antitumor Efficacy of OX40/CD137 Bispecific Agonist Therapy"
   image: Imianowski_CCR_2024.png
-  description: Regulatory T cells (Treg) suppress immune responses to cancer. There is interest in reprogramming Tregs to contribute to antitumor immunity. Here, we show that OX40/CD137 bispecific agonists induce potent antitumor immunity in large part dependent upon functional reprogramming of Tregs to produce IFN-γ. Conditional deletion of Ifng in Foxp3+ Tregs and their progeny partially reversed the antitumor efficacy of OX40/CD137 bispecific agonist therapy, revealing that reprogramming of Tregs into IFNγ-producing cells contributes to the anti-tumor efficacy of OX40/CD137 bispecific agonists. 
+  description: Tregs suppress immune responses to cancer. There is interest in reprogramming Tregs to contribute to antitumor immunity. Here, we show that OX40/CD137 bispecific agonists induce potent antitumor immunity in large part dependent upon functional reprogramming of Tregs to produce IFN-γ. Conditional deletion of Ifng in Foxp3+ Tregs and their progeny partially reversed the antitumor efficacy of OX40/CD137 bispecific agonist therapy, revealing that reprogramming of Tregs into IFNγ-producing cells contributes to the anti-tumor efficacy of OX40/CD137 bispecific agonists. 
 
   authors: Imianowski, Kuo, et al.
   link:
@@ -22,7 +22,7 @@
   
 - title: "Acquisition of suppressive function by conventional T cells limits antitumor immunity upon Treg depletion"
   image: Whiteside_SI_2023.png
-  description: Strategies to disrupt Treg cell–mediated cancer immunosuppression have been met with limited clinical success. By modeling Treg cell–targeted immunotherapy in mice, we find that CD4+ Foxp3− conventional T (Tconv) cells acquire suppressive function  limiting therapeutic efficacy. This activity is attributable to a Th2-like subset of CCR8+ Tconv cells which mediate IL-10–dependent suppression of antitumor immunity. The findings reveal a counterregulatory layer of immunosuppression released upon therapeutic Treg cell depletion amenable to targeting.
+  description: Strategies to disrupt Treg cell–mediated cancer immunosuppression have been met with limited clinical success. By modeling Treg cell–targeted immunotherapy in mice, we find that CD4+ Foxp3− conventional T (Tconv) cells acquire suppressive function  limiting therapeutic efficacy. This activity is attributable to a Th2-like subset of CCR8+ Tconv cells which mediate IL-10–dependent suppression of antitumor immunity, revealing a counterregulatory layer of immunosuppression released upon therapeutic Treg cell depletion.
 
   authors: Whiteside, et al.
   link:
