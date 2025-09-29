@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 <div id="research_contentid" >
-<h3 style="margin-top:0px">Harnessing T Cell Immunity to Prevent and Treat Cancer</h3> 
+<h3 style="margin-top:0px">T cell immunity and immunosuppression in cancer</h3> 
 The immune system has a **powerful ability to recognize and kill cancer cells**, but its function is often **suppressed within tumors**, preventing clearance of disease. Understanding how tumors suppress immunity has led to major therapeutic advances, including **checkpoint inhibitors targeting PD-1 and CTLA-4**. However, **most patients still do not respond** to today's immunotherapies.
 
 Our laboratory aims to discover **how cancers suppress T cell responses** and **resist immunotherapies** to evade destruction. We aim to **translate fundamental discoveries into new more effective therapies** for patients with cancer. We combine mechanistic immunology with cutting-edge approaches including CRISPR-based functional genetics and directed tumor evolution. Our research is increasingly focused on developing novel **biologic, cellular and small molecule therapies** to **improve treatment** of advanced cancer patients or to **prevent cancer recurrence** in those at high risk of metastasis.
@@ -16,24 +16,20 @@ Tumors create **hostile chemical and cellular environments** that suppress anti-
 
 **Regulatory T (Treg) cells** suppress conventional T cell responses and are a major barrier to anti-tumor immunity (**Figure 1**). We are interested in understanding how Treg cells develop and function. We discovered that the **transcriptional repressor BACH2 is essential for Treg cell development** and established a widely-accepted molecular model for BACH2 function in lymphocytes (Roychoudhuri et al., Nature 2013; Roychoudhuri et al., Nature Immunology 2016). This work explained why genetic variations at the human *BACH2* locus confer susceptibility to autoimmunity and allergy, and led to identification—through international collaboration—of **BACH2-related Immunodeficiency and Autoimmunity (BRIDA)**, a previously unrecognised human monogenic disease, improving clinical management for affected patients worldwide (Afzali et al., Nature Immunology 2017). We showed how a distal enhancer at the prominent **11q13.5 autoimmune disease risk locus** restricts gut inflammation by promoting expression of the TGF-β docking receptor GARP on Treg cells (Nasrallah et al., Nature 2020).
 
-<div style="text-align:left">
-<figure style="width:90%; min-width: 350px; display: inline-block; float:none; vertical-align: top; clear: both;">
+<figure style="min-width: 350px; display: inline-block; float:none; vertical-align: top; clear: both;">
 ![Immunoregulatory function within the T cell lineage.]({{ site.url }}{{ site.baseurl }}/images/respic/treg_development.png)
 <figcaption>**Figure 2. Regulatory T cell development.** CD4+ effector and regulatory T (Treg) cells arise from common precursor cells within the thymus and periphery by exert opposing functions. Treg-mediated restraint of effector cell function is a critical immunoregulatory mechanism required to prevent lethal inflammation. Modified from Igarashi, Kurosaki and Roychoudhuri, Nat Rev Immunol 2017.</figcaption>
 </figure>
-</div>
 
 Within tumors, we discovered that **activated Treg responses are maintained by quiescent stem-like progenitor cells**, raising questions about how Treg populations are maintained within tumours (Grant et al., J Exp Med 2020). We identified **CCR8 as a marker of highly suppressive tumor-infiltrating Treg cells** and a distinct suppressive subset of conventional CD4+ T cells that mediate immunotherapy resistance through IL-10 production (Whiteside et al., Science Immunology 2023). We are now examining how therapeutic strategies could **reprogram Treg cells within tumors**, including OX40/CD137 bispecific antibodies that convert Tregs into IFN-γ-producing cells that enhance anti-tumor immunity (Imianowski et al., Cancer Res Commun 2024).
 
 ### T Cell Maintenance and Dysfunction
 Effective immune responses to cancer require **T cells to persist over long periods** while retaining their ability to kill tumor cells. We have studied the **molecular programs that control T cell longevity** and how tumors induce T cell dysfunction—insights we are now aim to translate into improved cell therapies for cancer patients (**Figure 2**).
 
-<div style="text-align:left">
-<figure style="width:90%; min-width: 350px; display: inline-block; float:none; vertical-align: top; clear: both;">
+<figure style="min-width: 350px; display: inline-block; float:none; vertical-align: top; clear: both;">
 ![Stemness and maintenance of T cell responses]({{ site.url }}{{ site.baseurl }}/images/respic/Stemness and maintenance web_short.png)
 <figcaption>**Figure 2. Maintenance of acute and chronic T cell responses.** In both acute and chronic immune responses, T cells undergo progressive differentiation accompanied by acquisition of effector functions and loss of maintenance potential self-renewal and multipotency. This loss of maintenance potential is a key feature of the progression of T cells from naive, effector, and memory T cell subsets in acute responses, as well as progenitor, intermediate, and terminally exhausted T cells in chronic responses.</figcaption>
 </figure>
-</div>
 
 We conducted one of the earliest **multiplexed single-cell gene expression analyses** of immune cells, revealing heterogeneity in memory CD8+ T cell responses to vaccination (Flatz, Roychoudhuri et al., PNAS 2011) and defining the transcriptional and epigenetic programs of vaccine-induced memory T cells (Roychoudhuri et al., Vaccine 2015). We discovered that **BACH2 functions as a regulator of T cell quiescence**, promoting long-lived memory CD8+ T cell responses to viral infection (Roychoudhuri et al., Nature Immunology 2016). Mechanistically, **BACH2 represses T cell receptor-driven effector programs** by occupying AP-1 binding sites and blocking access by AP-1 transcription factors. This quiescence program extends beyond CD8+ T cells: we showed that long-term Treg cell maintenance depends on a quiescent subset marked by high Bach2 expression (Grant et al., J Exp Med 2020), and that BACH2 similarly constrains **NK cell maturation**, restricting NK-mediated immunosurveillance of lung metastasis (Imianowski et al., J Exp Med 2022).
 
@@ -44,7 +40,7 @@ We are now using these insights to engineer **improved CAR T cell therapies**. M
 ### Immune Interception of Cancer and Cancer Metastasis
 Advanced cancers are protected by a well-established **immunosuppressive microenvironment** that limits the efficacy of current immunotherapies. Yet cancers both at their earliest **pre-malignant stage** and at the **newly established or dormant micrometastasis stage** are deprived of the highly immunosuppressive microenvironment found within established tumours (Fig. 3). This creates an opportunity for therapies that **utilize the immune system to prevent cancer** in high-risk individuals or **prevent recurrence** in patients with early-stage cancer at risk of metastasis.
 
-<figure style="width:90%; min-width: 350px; display: inline-block; float:none; vertical-align: top; clear: both;">
+<figure style="min-width: 350px; display: inline-block; float:none; vertical-align: top; clear: both;">
 ![The cancer immunoediting hypothesis and the window for immune-based prevention]({{ site.url }}{{ site.baseurl }}/images/respic/cancer_development_metastasis.png)
 <figcaption>**Figure 1. The cancer immunoediting hypothesis and the window for immune-based prevention.** Cancer progression through elimination, equilibrium, and escape phases results in the establishment of a protective immunosuppressive microenvironment, featuring regulatory T cells, MDSCs, TAMs, and suppressive factors that shield advanced tumours from immune attack. However, early-stage cancers and disseminated micrometastases lack this immunosuppressive armor, remaining vulnerable to elimination by T cells and NK cells. The immune vulnerability curve (bottom) reveals two critical therapeutic windows: early cancers before escape mechanisms develop, and micrometastatic deposits that are deprived of the protective tumour microenvironment. This vulnerability of early and disseminated disease represents a major opportunity for preventive immunotherapy—targeting cancer when it is most susceptible to immune elimination rather than after immunosuppressive defenses are established.</figcaption>
 </figure>
