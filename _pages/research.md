@@ -36,7 +36,7 @@ Effective immune responses to cancer require T cells to persist over long period
 
 <div style="text-align:left">
 <figure style="width:90%; min-width: 350px; display: inline-block; float:none; vertical-align: top; clear: both;">
-![Stemness and maintenance of T cell responses]({{ site.url }}{{ site.baseurl }}/images/respic/Stemness and maintenance web.png)
+![Stemness and maintenance of T cell responses]({{ site.url }}{{ site.baseurl }}/images/respic/Stemness and maintenance web_short.png)
 <figcaption>**Figure 2. Maintenance of acute and chronic T cell responses.** In both acute and chronic immune responses, T cells undergo progressive differentiation accompanied by acquisition of effector functions and loss of maintenance potential self-renewal and multipotency. This loss of maintenance potential is a key feature of the progression of T cells from naive, effector, and memory T cell subsets in acute responses, as well as progenitor, intermediate, and terminally exhausted T cells in chronic responses.</figcaption>
 </figure>
 </div>
