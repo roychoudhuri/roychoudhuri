@@ -37,7 +37,7 @@ We contributed to studies showing that **AKT pathway inhibition generates T cell
 
 We are now using these insights to engineer **improved CAR T cell therapies**. Multiple ongoing projects aim to harness T cell maintenance programs to generate cell products with **enhanced persistence and anti-tumor function** for patients with advanced cancers.
 
-### Immune Interception of Cancer and Cancer Metastasis
+### Immune Interception of Early Cancer and Cancer Metastasis
 Advanced cancers are protected by a well-established **immunosuppressive microenvironment** that limits the efficacy of current immunotherapies. Yet cancers both at their earliest **pre-malignant stage** and at the **newly established or dormant micrometastasis stage** are deprived of the highly immunosuppressive microenvironment found within established tumours (Fig. 3). This creates an opportunity for therapies that **utilize the immune system to prevent cancer** in high-risk individuals or **prevent recurrence** in patients with early-stage cancer at risk of metastasis.
 
 <figure style="min-width: 350px; display: inline-block; float:none; vertical-align: top; clear: both;">
