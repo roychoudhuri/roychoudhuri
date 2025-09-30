@@ -7,7 +7,7 @@ permalink: /research/
 ---
 <div id="research_contentid" >
 <h3 style="margin-top:0px">T cell immunity and immunosuppression in cancer</h3> 
-**The immune system** has a powerful ability to recognize and kill cancer cells, but its function is often **suppressed within tumours**, preventing clearance of disease. Understanding how tumors suppress immunity has led to major therapeutic advances, including checkpoint inhibitors targeting PD-1 and CTLA-4. However, **most patients do not durably respond to present day immunotherapies**.
+The immune system has a **powerful ability to recognize and kill cancer cells**, but its function is often **suppressed within tumours**, preventing clearance of disease. Understanding how tumors suppress immunity has led to major therapeutic advances, including checkpoint inhibitors targeting PD-1 and CTLA-4. However, **most patients do not durably respond to present day immunotherapies**.
 
 Our laboratory aims to discover how cancers suppress T cell responses to evade destruction and resist immunotherapy. We aim to **translate fundamental discoveries into new more effective therapies** for patients with cancer, combining mechanistic immunology with cutting-edge approaches including CRISPR-based functional genetics and directed tumor evolution. Our research is increasingly focused on developing novel biologic, cellular and molecular therapies to **improve treatment** of advanced cancer patients or to **prevent cancer recurrence** in those at high risk of metastasis.
 
