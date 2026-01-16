@@ -1,3 +1,14 @@
+- title: "Fine-tuning BACH2 dosage balances stemness and effector function to enhance antitumor T cell therapy"
+  image: Conti_NI.png
+  description: Adoptive T cell therapies are limited by poor persistence of transferred cells. We show that quantitative control of BACH2 dosage regulates differentiation along the stem-effector continuum, enabling engineering of synthetic CD8⁺ T cell states with persistent antitumor activity. While high-level BACH2 overexpression enforces quiescence and hinders tumor control, low-dose expression promotes persistence without compromising effector function by partially attenuating terminal differentiation programs. 
+
+  authors: Conti, Evans, von Linde et al.
+  link:
+    url: Conti_NI_2026.pdf
+    display: <b><i>Nature Immunology</i> (2026)</b>
+  highlight: 1
+  news2:
+  
 - title: "Aspirin prevents metastasis by limiting platelet TXA2 suppression of T cell immunity"
   image: Yang_Nature_2025.png
   description: Retrospective clinical studies suggest that people who take aspirin may be at reduced risk of cancer metastasis. Here we show that aspirin enhances immunity to cancer metastasis by releasing T cells from suppression by platelet thromboxane A2 (TXA2). TXA2 acts on T cells to trigger an immunosuppressive pathway dependent on a guanine exchange factor ARHGEF1. Restricting the availability of TXA2 using aspirin or COX-1 inhibitors reduces the rate of metastasis in a manner dependent on T cell-intrinsic expression of ARHGEF1.
