@@ -1,6 +1,6 @@
 - title: "Fine-tuning BACH2 dosage balances stemness and effector function to enhance antitumor T cell therapy"
-  image: Conti_NI.png
-  description: Adoptive T cell therapies are limited by poor persistence of transferred cells. We show that quantitative control of BACH2 dosage regulates differentiation along the stem-effector continuum, enabling engineering of synthetic CD8⁺ T cell states with persistent antitumor activity. While high-level BACH2 overexpression enforces quiescence and hinders tumor control, low-dose expression promotes persistence without compromising effector function by partially attenuating terminal differentiation programs. 
+  image: Conti_NI_b.png
+  description: Adoptive T cell therapies are limited by poor persistence of transferred cells. We show that quantitative control of BACH2 dosage regulates differentiation along the stem-effector continuum, enabling engineering of synthetic CD8⁺ T cell states with persistent antitumor activity. While high-level BACH2 overexpression enforces quiescence and hinders tumor control, low-dose expression promotes persistence without compromising effector function by partially attenuating terminal differentiation programs. One of three papers published back-to-back showing that BACH2 can be exploited therapeutically for cell therapy by adjusting its dosage and timing. 
 
   authors: Conti, Evans, von Linde et al.
   link:
