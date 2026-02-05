@@ -26,25 +26,6 @@ body {
     }
 }
 
-@media (max-width: 576px) {
-  .well {
-    display: block !important;
-  }
-  .well > div:first-child {
-    float: left;
-    width: 40% !important;
-    flex: none !important;
-    margin: 0 10px 5px 0;
-  }
-  .well > div:last-child {
-    min-width: 0 !important;
-  }
-}
-
-footer p {
-  color: #333333;
-}
-
 
 figcaption {
     text-align: right;
