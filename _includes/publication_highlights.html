@@ -2,13 +2,13 @@
 {% for publi in site.data.publist %}
 {% if publi.highlight == 1 %}
 <div class="row">
-<div class="well" style="display: flex; flex-wrap: wrap; gap: 0 15px; margin-left: 19px; width: 90%; border-color: #b4b4b4; align-items: flex-start;">
-<div style="flex: 0 0 35%; min-width: 150px;">
+<div class="well pub-highlight" style="display: flex; flex-wrap: wrap; gap: 0 15px; margin-left: 19px; width: 90%; border-color: #b4b4b4; align-items: flex-start;">
+<div class="pub-img" style="flex: 0 0 35%; min-width: 150px;">
 <a style="text-decoration: none;" target="_blank" href="../media/{{ publi.link.url }}"><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" style="width: 100%;" /></a>
 </div>
-<div style="flex: 1 1 0; min-width: 200px;">
-<pubtit>{{ publi.title }}</pubtit>
-<p>{{ publi.description }}</p>
+<div class="pub-text" style="flex: 1 1 0; min-width: 200px; margin-top: -3px;">
+<pubtit style="display: block; margin-bottom: 15px;">{{ publi.title }}</pubtit>
+<p style="margin-top: 0;">{{ publi.description }}</p>
 <p>{{ publi.authors }}, {{ publi.link.display }}&nbsp;&nbsp;<a style="background: url({{ site.url }}{{ site.baseurl }}/images/icons/pdf_icon.png) no-repeat left center; text-decoration: none; padding-left: 20px;" target="_blank" href="../media/{{ publi.link.url }}">[PDF]</a></p>
 <p class="text-danger"><strong>{{ publi.news1 }}</strong></p>
 <p>{{ publi.news2 }}</p>
@@ -18,3 +18,21 @@
 {% assign number_printed = number_printed | plus: 1 %}
 {% endif %}
 {% endfor %}
+
+<style>
+@media (max-width: 576px) {
+  .pub-highlight {
+    display: block !important;
+  }
+  .pub-img {
+    float: left;
+    width: 40% !important;
+    flex: none !important;
+    margin: 0 10px 5px 0;
+    min-width: 0 !important;
+  }
+  .pub-text {
+    min-width: 0 !important;
+  }
+}
+</style>
