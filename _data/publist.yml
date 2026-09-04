@@ -1,3 +1,14 @@
+- title: "Tumor-derived antioxidants suppress immunity by depriving T cells of reactive oxygen species"
+  image: Prdx1_Science.png
+  description: T cells require reactive oxygen species (ROS) for activation, but whether tumours exploit this dependency has been unclear. We found that cancer cells release antioxidant enzymes, including peroxiredoxin 1 (PRDX1), into the tumour microenvironment, depriving infiltrating T cells of ROS and suppressing their activation by limiting signalling downstream of the T cell receptor. Genetic ablation of Prdx1 in cancer cells restored anti-tumour immunity and sensitised otherwise refractory tumours to immune checkpoint blockade. 
+
+  authors: Wesolowski, Pillay et al.
+  link:
+    url: Wesolowski_Science_2026.pdf
+    display: <b><i>Science</i> (2026)</b>
+  highlight: 1
+  news2: <b><a href="https://www.nature.com/articles/s41590-026-02443-4">Commentary</a> by Ben Youngblood.</b>
+  
 - title: "Fine-tuning BACH2 dosage balances stemness and effector function to enhance antitumor T cell therapy"
   image: Conti_NI_b.png
   description: Adoptive T cell therapies are limited by poor persistence of transferred cells. We show that quantitative control of BACH2 dosage regulates differentiation along the stem-effector continuum, enabling engineering of synthetic CD8⁺ T cell states with persistent antitumor activity. While high-level BACH2 overexpression enforces quiescence and hinders tumor control, low-dose expression promotes persistence without compromising effector function by partially attenuating terminal differentiation programs. One of three papers published back-to-back showing that BACH2 can be exploited therapeutically for cell therapy by adjusting its dosage and timing. 
@@ -7,7 +18,7 @@
     url: Conti_NI_2026.pdf
     display: <b><i>Nat Immunol</i> (2026)</b>
   highlight: 1
-  news2:
+  news2: <b><a href="https://www.science.org/doi/10.1126/science.aek5854">Commentary</a> by Navdeep Chandel.</b>
   
 - title: "Aspirin prevents metastasis by limiting platelet TXA2 suppression of T cell immunity"
   image: Yang_Nature_2025.png
