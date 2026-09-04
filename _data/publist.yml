@@ -7,7 +7,7 @@
     url: Wesolowski_Science_2026.pdf
     display: <b><i>Science</i> (2026)</b>
   highlight: 1
-  news2: <b><a href="https://www.nature.com/articles/s41590-026-02443-4">Commentary</a> by Ben Youngblood.</b>
+  news2: <i><a href="https://www.science.org/doi/10.1126/science.aek5854">Commentary</a> by Navdeep Chandel</i>
   
 - title: "Fine-tuning BACH2 dosage balances stemness and effector function to enhance antitumor T cell therapy"
   image: Conti_NI_b.png
@@ -18,7 +18,7 @@
     url: Conti_NI_2026.pdf
     display: <b><i>Nat Immunol</i> (2026)</b>
   highlight: 1
-  news2: <b><a href="https://www.science.org/doi/10.1126/science.aek5854">Commentary</a> by Navdeep Chandel.</b>
+  news2: <i><a href="https://www.nature.com/articles/s41590-026-02443-4">Commentary</a> by Ben Youngblood</i>
   
 - title: "Aspirin prevents metastasis by limiting platelet TXA2 suppression of T cell immunity"
   image: Yang_Nature_2025.png
@@ -29,7 +29,7 @@
     url: Yang_Nature_2025.pdf
     display: <b><i>Nature</i> (2025)</b>
   highlight: 1
-  news2:
+  news2: <i><a href="https://www.nature.com/articles/s41577-025-01160-7">Research Highlight in Nat Rev Immunol</a> by Yvonne Bordon</i>
 
 - title: "IFN-γ Production by Functionally Reprogrammed Tregs Promotes Antitumor Efficacy of OX40/CD137 Bispecific Agonist Therapy"
   image: Imianowski_CCR_2024.png
